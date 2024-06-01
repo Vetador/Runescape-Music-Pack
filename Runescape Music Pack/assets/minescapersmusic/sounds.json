@@ -1,0 +1,7437 @@
+{
+  "alchemical_attack": {
+    "sounds": [
+      "minescapersmusic:alchemical_attack"
+    ]
+  },
+  "amascuts_promise": {
+    "sounds": [
+      "minescapersmusic:amascuts_promise"
+    ]
+  },
+  "apeex_predator": {
+    "sounds": [
+      "minescapersmusic:apeex_predator"
+    ]
+  },
+  "arachnids_of_vampyrium": {
+    "sounds": [
+      "minescapersmusic:arachnids_of_vampyrium"
+    ]
+  },
+  "arcane": {
+    "sounds": [
+      "minescapersmusic:arcane"
+    ]
+  },
+  "architects_of_prifddinas": {
+    "sounds": [
+      "minescapersmusic:architects_of_prifddinas"
+    ]
+  },
+  "ascent": {
+    "sounds": [
+      "minescapersmusic:ascent"
+    ]
+  },
+  "a_dangerous_game": {
+    "sounds": [
+      "minescapersmusic:a_dangerous_game"
+    ]
+  },
+  "a_farmers_grind": {
+    "sounds": [
+      "minescapersmusic:a_farmers_grind"
+    ]
+  },
+  "a_forgotten_religion": {
+    "sounds": [
+      "minescapersmusic:a_forgotten_religion"
+    ]
+  },
+  "a_mothers_curse": {
+    "sounds": [
+      "minescapersmusic:a_mothers_curse"
+    ]
+  },
+  "a_taste_of_hope": {
+    "sounds": [
+      "minescapersmusic:a_taste_of_hope"
+    ]
+  },
+  "a_thorn_in_my_side": {
+    "sounds": [
+      "minescapersmusic:a_thorn_in_my_side"
+    ]
+  },
+  "a_walk_in_the_woods": {
+    "sounds": [
+      "minescapersmusic:a_walk_in_the_woods"
+    ]
+  },
+  "a_worthy_foe": {
+    "sounds": [
+      "minescapersmusic:a_worthy_foe"
+    ]
+  },
+  "barren_land": {
+    "sounds": [
+      "minescapersmusic:barren_land"
+    ]
+  },
+  "beneath_cursed_sands": {
+    "sounds": [
+      "minescapersmusic:beneath_cursed_sands"
+    ]
+  },
+  "beneath_the_kingdom": {
+    "sounds": [
+      "minescapersmusic:beneath_the_kingdom"
+    ]
+  },
+  "beneath_the_stronghold": {
+    "sounds": [
+      "minescapersmusic:beneath_the_stronghold"
+    ]
+  },
+  "beyond_the_meadow": {
+    "sounds": [
+      "minescapersmusic:beyond_the_meadow"
+    ]
+  },
+  "blood_rush_music_track": {
+    "sounds": [
+      "minescapersmusic:blood_rush_music_track"
+    ]
+  },
+  "box_of_delights": {
+    "sounds": [
+      "minescapersmusic:box_of_delights"
+    ]
+  },
+  "bunnys_sugar_rush": {
+    "sounds": [
+      "minescapersmusic:bunnys_sugar_rush"
+    ]
+  },
+  "burning_desire": {
+    "sounds": [
+      "minescapersmusic:burning_desire"
+    ]
+  },
+  "children_of_the_sun": {
+    "sounds": [
+      "minescapersmusic:children_of_the_sun"
+    ]
+  },
+  "clanliness": {
+    "sounds": [
+      "minescapersmusic:clanliness"
+    ]
+  },
+  "coil": {
+    "sounds": [
+      "minescapersmusic:coil"
+    ]
+  },
+  "colossus_of_the_deep": {
+    "sounds": [
+      "minescapersmusic:colossus_of_the_deep"
+    ]
+  },
+  "country_jig": {
+    "sounds": [
+      "minescapersmusic:country_jig"
+    ]
+  },
+  "creeping_vines": {
+    "sounds": [
+      "minescapersmusic:creeping_vines"
+    ]
+  },
+  "dance_of_the_meilyr": {
+    "sounds": [
+      "minescapersmusic:dance_of_the_meilyr"
+    ]
+  },
+  "dance_of_the_nylocas": {
+    "sounds": [
+      "minescapersmusic:dance_of_the_nylocas"
+    ]
+  },
+  "darkly_altared": {
+    "sounds": [
+      "minescapersmusic:darkly_altared"
+    ]
+  },
+  "darkness_in_the_depths": {
+    "sounds": [
+      "minescapersmusic:darkness_in_the_depths"
+    ]
+  },
+  "devils_may_care": {
+    "sounds": [
+      "minescapersmusic:devils_may_care"
+    ]
+  },
+  "dies_irae": {
+    "sounds": [
+      "minescapersmusic:dies_irae"
+    ]
+  },
+  "dots_yuletide": {
+    "sounds": [
+      "minescapersmusic:dots_yuletide"
+    ]
+  },
+  "down_by_the_docks": {
+    "sounds": [
+      "minescapersmusic:down_by_the_docks"
+    ]
+  },
+  "dunes_of_eternity": {
+    "sounds": [
+      "minescapersmusic:dunes_of_eternity"
+    ]
+  },
+  "dwarven_domain": {
+    "sounds": [
+      "minescapersmusic:dwarven_domain"
+    ]
+  },
+  "elven_guardians": {
+    "sounds": [
+      "minescapersmusic:elven_guardians"
+    ]
+  },
+  "eves_epinette": {
+    "sounds": [
+      "minescapersmusic:eves_epinette"
+    ]
+  },
+  "eye_see_you": {
+    "sounds": [
+      "minescapersmusic:eye_see_you"
+    ]
+  },
+  "faith_of_the_hefin": {
+    "sounds": [
+      "minescapersmusic:faith_of_the_hefin"
+    ]
+  },
+  "fire_in_the_deep": {
+    "sounds": [
+      "minescapersmusic:fire_in_the_deep"
+    ]
+  },
+  "fossilised": {
+    "sounds": [
+      "minescapersmusic:fossilised"
+    ]
+  },
+  "ful_to_the_brim": {
+    "sounds": [
+      "minescapersmusic:ful_to_the_brim"
+    ]
+  },
+  "getting_down_to_business": {
+    "sounds": [
+      "minescapersmusic:getting_down_to_business"
+    ]
+  },
+  "gill_bill": {
+    "sounds": [
+      "minescapersmusic:gill_bill"
+    ]
+  },
+  "gnome_village_party": {
+    "sounds": [
+      "minescapersmusic:gnome_village_party"
+    ]
+  },
+  "grow_grow_grow": {
+    "sounds": [
+      "minescapersmusic:grow_grow_grow"
+    ]
+  },
+  "guardians_of_the_rift": {
+    "sounds": [
+      "minescapersmusic:guardians_of_the_rift"
+    ]
+  },
+  "hoe_down": {
+    "sounds": [
+      "minescapersmusic:hoe_down"
+    ]
+  },
+  "ice_and_fire": {
+    "sounds": [
+      "minescapersmusic:ice_and_fire"
+    ]
+  },
+  "inferno": {
+    "sounds": [
+      "minescapersmusic:inferno"
+    ]
+  },
+  "into_the_tombs": {
+    "sounds": [
+      "minescapersmusic:into_the_tombs"
+    ]
+  },
+  "invader": {
+    "sounds": [
+      "minescapersmusic:invader"
+    ]
+  },
+  "its_not_over_til": {
+    "sounds": [
+      "minescapersmusic:its_not_over_til"
+    ]
+  },
+  "jaws_of_gluttony": {
+    "sounds": [
+      "minescapersmusic:jaws_of_gluttony"
+    ]
+  },
+  "judgement_of_the_depths": {
+    "sounds": [
+      "minescapersmusic:judgement_of_the_depths"
+    ]
+  },
+  "kanon_of_kahlith": {
+    "sounds": [
+      "minescapersmusic:kanon_of_kahlith"
+    ]
+  },
+  "kourend_the_magnificent": {
+    "sounds": [
+      "minescapersmusic:kourend_the_magnificent"
+    ]
+  },
+  "lagoon": {
+    "sounds": [
+      "minescapersmusic:lagoon"
+    ]
+  },
+  "laid_to_rest": {
+    "sounds": [
+      "minescapersmusic:laid_to_rest"
+    ]
+  },
+  "last_king_of_the_yarasa": {
+    "sounds": [
+      "minescapersmusic:last_king_of_the_yarasa"
+    ]
+  },
+  "last_man_standing": {
+    "sounds": [
+      "minescapersmusic:last_man_standing"
+    ]
+  },
+  "lava_is_mine": {
+    "sounds": [
+      "minescapersmusic:lava_is_mine"
+    ]
+  },
+  "lower_depths": {
+    "sounds": [
+      "minescapersmusic:lower_depths"
+    ]
+  },
+  "lucid_dream": {
+    "sounds": [
+      "minescapersmusic:lucid_dream"
+    ]
+  },
+  "lucid_nightmare": {
+    "sounds": [
+      "minescapersmusic:lucid_nightmare"
+    ]
+  },
+  "lumbering": {
+    "sounds": [
+      "minescapersmusic:lumbering"
+    ]
+  },
+  "march_of_the_shayzien": {
+    "sounds": [
+      "minescapersmusic:march_of_the_shayzien"
+    ]
+  },
+  "master_of_puppets": {
+    "sounds": [
+      "minescapersmusic:master_of_puppets"
+    ]
+  },
+  "maws_jaws_and_claws": {
+    "sounds": [
+      "minescapersmusic:maws_jaws_and_claws"
+    ]
+  },
+  "military_life": {
+    "sounds": [
+      "minescapersmusic:military_life"
+    ]
+  },
+  "monkey_badness": {
+    "sounds": [
+      "minescapersmusic:monkey_badness"
+    ]
+  },
+  "monkey_business": {
+    "sounds": [
+      "minescapersmusic:monkey_business"
+    ]
+  },
+  "monkey_sadness": {
+    "sounds": [
+      "minescapersmusic:monkey_sadness"
+    ]
+  },
+  "monkey_trouble": {
+    "sounds": [
+      "minescapersmusic:monkey_trouble"
+    ]
+  },
+  "more_than_meets_the_eye": {
+    "sounds": [
+      "minescapersmusic:more_than_meets_the_eye"
+    ]
+  },
+  "mor_ul_rek": {
+    "sounds": [
+      "minescapersmusic:mor_ul_rek"
+    ]
+  },
+  "mother_ruckus": {
+    "sounds": [
+      "minescapersmusic:mother_ruckus"
+    ]
+  },
+  "museum_medley": {
+    "sounds": [
+      "minescapersmusic:museum_medley"
+    ]
+  },
+  "mystics_of_nature": {
+    "sounds": [
+      "minescapersmusic:mystics_of_nature"
+    ]
+  },
+  "mythical": {
+    "sounds": [
+      "minescapersmusic:mythical"
+    ]
+  },
+  "nether_realm": {
+    "sounds": [
+      "minescapersmusic:nether_realm"
+    ]
+  },
+  "newbie_farming": {
+    "sounds": [
+      "minescapersmusic:newbie_farming"
+    ]
+  },
+  "not_a_moment_of_relief": {
+    "sounds": [
+      "minescapersmusic:not_a_moment_of_relief"
+    ]
+  },
+  "nox_irae": {
+    "sounds": [
+      "minescapersmusic:nox_irae"
+    ]
+  },
+  "no_pasaran": {
+    "sounds": [
+      "minescapersmusic:no_pasaran"
+    ]
+  },
+  "oncoming_foe": {
+    "sounds": [
+      "minescapersmusic:oncoming_foe"
+    ]
+  },
+  "on_the_frontline": {
+    "sounds": [
+      "minescapersmusic:on_the_frontline"
+    ]
+  },
+  "on_the_shore": {
+    "sounds": [
+      "minescapersmusic:on_the_shore"
+    ]
+  },
+  "on_thin_ice": {
+    "sounds": [
+      "minescapersmusic:on_thin_ice"
+    ]
+  },
+  "out_at_the_mines": {
+    "sounds": [
+      "minescapersmusic:out_at_the_mines"
+    ]
+  },
+  "pick_and_shovel": {
+    "sounds": [
+      "minescapersmusic:pick_and_shovel"
+    ]
+  },
+  "plots_and_plans": {
+    "sounds": [
+      "minescapersmusic:plots_and_plans"
+    ]
+  },
+  "power_of_the_shadow_realm": {
+    "sounds": [
+      "minescapersmusic:power_of_the_shadow_realm"
+    ]
+  },
+  "predator_xarpus": {
+    "sounds": [
+      "minescapersmusic:predator_xarpus"
+    ]
+  },
+  "preservation": {
+    "sounds": [
+      "minescapersmusic:preservation"
+    ]
+  },
+  "preserved": {
+    "sounds": [
+      "minescapersmusic:preserved"
+    ]
+  },
+  "regal_pomp": {
+    "sounds": [
+      "minescapersmusic:regal_pomp"
+    ]
+  },
+  "reign_of_the_basilisk": {
+    "sounds": [
+      "minescapersmusic:reign_of_the_basilisk"
+    ]
+  },
+  "relics": {
+    "sounds": [
+      "minescapersmusic:relics"
+    ]
+  },
+  "rest_in_peace": {
+    "sounds": [
+      "minescapersmusic:rest_in_peace"
+    ]
+  },
+  "revenants": {
+    "sounds": [
+      "minescapersmusic:revenants"
+    ]
+  },
+  "rhapsody": {
+    "sounds": [
+      "minescapersmusic:rhapsody"
+    ]
+  },
+  "rose": {
+    "sounds": [
+      "minescapersmusic:rose"
+    ]
+  },
+  "rugged_terrain": {
+    "sounds": [
+      "minescapersmusic:rugged_terrain"
+    ]
+  },
+  "ruins_of_isolation": {
+    "sounds": [
+      "minescapersmusic:ruins_of_isolation"
+    ]
+  },
+  "sarachnis": {
+    "sounds": [
+      "minescapersmusic:sarachnis"
+    ]
+  },
+  "scape_ape": {
+    "sounds": [
+      "minescapersmusic:scape_ape"
+    ]
+  },
+  "scape_crystal": {
+    "sounds": [
+      "minescapersmusic:scape_crystal"
+    ]
+  },
+  "scape_five": {
+    "sounds": [
+      "minescapersmusic:scape_five"
+    ]
+  },
+  "scar_tissue": {
+    "sounds": [
+      "minescapersmusic:scar_tissue"
+    ]
+  },
+  "scorpia_dances": {
+    "sounds": [
+      "minescapersmusic:scorpia_dances"
+    ]
+  },
+  "scrubfoots_descent": {
+    "sounds": [
+      "minescapersmusic:scrubfoots_descent"
+    ]
+  },
+  "sea_minor_shanty": {
+    "sounds": [
+      "minescapersmusic:sea_minor_shanty"
+    ]
+  },
+  "secrets_of_the_north": {
+    "sounds": [
+      "minescapersmusic:secrets_of_the_north"
+    ]
+  },
+  "servants_of_strife": {
+    "sounds": [
+      "minescapersmusic:servants_of_strife"
+    ]
+  },
+  "sharp_end_of_the_crystal": {
+    "sounds": [
+      "minescapersmusic:sharp_end_of_the_crystal"
+    ]
+  },
+  "snowflake_and_my_arm": {
+    "sounds": [
+      "minescapersmusic:snowflake_and_my_arm"
+    ]
+  },
+  "song_of_the_elves": {
+    "sounds": [
+      "minescapersmusic:song_of_the_elves"
+    ]
+  },
+  "song_of_the_silent_choir": {
+    "sounds": [
+      "minescapersmusic:song_of_the_silent_choir"
+    ]
+  },
+  "soul_fall": {
+    "sounds": [
+      "minescapersmusic:soul_fall"
+    ]
+  },
+  "stand_up_and_be_counted": {
+    "sounds": [
+      "minescapersmusic:stand_up_and_be_counted"
+    ]
+  },
+  "strangled": {
+    "sounds": [
+      "minescapersmusic:strangled"
+    ]
+  },
+  "stuck_in_the_mire": {
+    "sounds": [
+      "minescapersmusic:stuck_in_the_mire"
+    ]
+  },
+  "tempest": {
+    "sounds": [
+      "minescapersmusic:tempest"
+    ]
+  },
+  "temple_of_the_eye": {
+    "sounds": [
+      "minescapersmusic:temple_of_the_eye"
+    ]
+  },
+  "tempor_of_the_storm": {
+    "sounds": [
+      "minescapersmusic:tempor_of_the_storm"
+    ]
+  },
+  "test_of_companionship": {
+    "sounds": [
+      "minescapersmusic:test_of_companionship"
+    ]
+  },
+  "test_of_isolation": {
+    "sounds": [
+      "minescapersmusic:test_of_isolation"
+    ]
+  },
+  "test_of_resourcefulness": {
+    "sounds": [
+      "minescapersmusic:test_of_resourcefulness"
+    ]
+  },
+  "test_of_strength": {
+    "sounds": [
+      "minescapersmusic:test_of_strength"
+    ]
+  },
+  "that_sullen_hall": {
+    "sounds": [
+      "minescapersmusic:that_sullen_hall"
+    ]
+  },
+  "the_bane_of_ashihama": {
+    "sounds": [
+      "minescapersmusic:the_bane_of_ashihama"
+    ]
+  },
+  "the_burning_sun": {
+    "sounds": [
+      "minescapersmusic:the_burning_sun"
+    ]
+  },
+  "the_curtain_closes": {
+    "sounds": [
+      "minescapersmusic:the_curtain_closes"
+    ]
+  },
+  "the_dark_beast_sotetseg": {
+    "sounds": [
+      "minescapersmusic:the_dark_beast_sotetseg"
+    ]
+  },
+  "the_desolate_mage": {
+    "sounds": [
+      "minescapersmusic:the_desolate_mage"
+    ]
+  },
+  "the_doors_of_dinh": {
+    "sounds": [
+      "minescapersmusic:the_doors_of_dinh"
+    ]
+  },
+  "the_dragon_slayer": {
+    "sounds": [
+      "minescapersmusic:the_dragon_slayer"
+    ]
+  },
+  "the_everlasting_slumber": {
+    "sounds": [
+      "minescapersmusic:the_everlasting_slumber"
+    ]
+  },
+  "the_fallen_empire": {
+    "sounds": [
+      "minescapersmusic:the_fallen_empire"
+    ]
+  },
+  "the_fat_lady_sings": {
+    "sounds": [
+      "minescapersmusic:the_fat_lady_sings"
+    ]
+  },
+  "the_fires_of_lletya": {
+    "sounds": [
+      "minescapersmusic:the_fires_of_lletya"
+    ]
+  },
+  "the_forests_of_shayzien": {
+    "sounds": [
+      "minescapersmusic:the_forests_of_shayzien"
+    ]
+  },
+  "the_forgotten_tomb": {
+    "sounds": [
+      "minescapersmusic:the_forgotten_tomb"
+    ]
+  },
+  "the_forlorn_homestead": {
+    "sounds": [
+      "minescapersmusic:the_forlorn_homestead"
+    ]
+  },
+  "the_forsaken": {
+    "sounds": [
+      "minescapersmusic:the_forsaken"
+    ]
+  },
+  "the_forsaken_tower": {
+    "sounds": [
+      "minescapersmusic:the_forsaken_tower"
+    ]
+  },
+  "the_foundry": {
+    "sounds": [
+      "minescapersmusic:the_foundry"
+    ]
+  },
+  "the_fragment": {
+    "sounds": [
+      "minescapersmusic:the_fragment"
+    ]
+  },
+  "the_gauntlet": {
+    "sounds": [
+      "minescapersmusic:the_gauntlet"
+    ]
+  },
+  "the_guardians_prepare": {
+    "sounds": [
+      "minescapersmusic:the_guardians_prepare"
+    ]
+  },
+  "the_houses_of_kourend": {
+    "sounds": [
+      "minescapersmusic:the_houses_of_kourend"
+    ]
+  },
+  "the_maidens_anger": {
+    "sounds": [
+      "minescapersmusic:the_maidens_anger"
+    ]
+  },
+  "the_maidens_sorrow": {
+    "sounds": [
+      "minescapersmusic:the_maidens_sorrow"
+    ]
+  },
+  "the_militia": {
+    "sounds": [
+      "minescapersmusic:the_militia"
+    ]
+  },
+  "the_old_ones": {
+    "sounds": [
+      "minescapersmusic:the_old_ones"
+    ]
+  },
+  "the_part_where_you_die": {
+    "sounds": [
+      "minescapersmusic:the_part_where_you_die"
+    ]
+  },
+  "the_pharaoh": {
+    "sounds": [
+      "minescapersmusic:the_pharaoh"
+    ]
+  },
+  "the_seed_of_crwys": {
+    "sounds": [
+      "minescapersmusic:the_seed_of_crwys"
+    ]
+  },
+  "the_spurned_demon": {
+    "sounds": [
+      "minescapersmusic:the_spurned_demon"
+    ]
+  },
+  "the_tower_of_voices": {
+    "sounds": [
+      "minescapersmusic:the_tower_of_voices"
+    ]
+  },
+  "the_vault": {
+    "sounds": [
+      "minescapersmusic:the_vault"
+    ]
+  },
+  "the_walking_dead": {
+    "sounds": [
+      "minescapersmusic:the_walking_dead"
+    ]
+  },
+  "thrall_of_the_devourer": {
+    "sounds": [
+      "minescapersmusic:thrall_of_the_devourer"
+    ]
+  },
+  "thrall_of_the_serpent": {
+    "sounds": [
+      "minescapersmusic:thrall_of_the_serpent"
+    ]
+  },
+  "tick_tock": {
+    "sounds": [
+      "minescapersmusic:tick_tock"
+    ]
+  },
+  "trahaearn_toil": {
+    "sounds": [
+      "minescapersmusic:trahaearn_toil"
+    ]
+  },
+  "troll_shuffle": {
+    "sounds": [
+      "minescapersmusic:troll_shuffle"
+    ]
+  },
+  "troubled_waters": {
+    "sounds": [
+      "minescapersmusic:troubled_waters"
+    ]
+  },
+  "upper_depths": {
+    "sounds": [
+      "minescapersmusic:upper_depths"
+    ]
+  },
+  "warpath": {
+    "sounds": [
+      "minescapersmusic:warpath"
+    ]
+  },
+  "watch_your_step": {
+    "sounds": [
+      "minescapersmusic:watch_your_step"
+    ]
+  },
+  "way_of_the_wyrm": {
+    "sounds": [
+      "minescapersmusic:way_of_the_wyrm"
+    ]
+  },
+  "welcome_to_my_nightmare": {
+    "sounds": [
+      "minescapersmusic:welcome_to_my_nightmare"
+    ]
+  },
+  "welcome_to_the_theatre": {
+    "sounds": [
+      "minescapersmusic:welcome_to_the_theatre"
+    ]
+  },
+  "well_hallowed_air": {
+    "sounds": [
+      "minescapersmusic:well_hallowed_air"
+    ]
+  },
+  "what_happens_below": {
+    "sounds": [
+      "minescapersmusic:what_happens_below"
+    ]
+  },
+  "you_have_my_attention": {
+    "sounds": [
+      "minescapersmusic:you_have_my_attention"
+    ]
+  },
+  "7th_realm": {
+    "sounds": [
+      "minescapersmusic:7th_realm"
+    ]
+  },
+  "a_familiar_feeling": {
+    "sounds": [
+      "minescapersmusic:a_familiar_feeling"
+    ]
+  },
+  "a_handful_of_coins": {
+    "sounds": [
+      "minescapersmusic:a_handful_of_coins"
+    ]
+  },
+  "a_little_learning": {
+    "sounds": [
+      "minescapersmusic:a_little_learning"
+    ]
+  },
+  "a_malice_unleashed": {
+    "sounds": [
+      "minescapersmusic:a_malice_unleashed"
+    ]
+  },
+  "a_new_menace": {
+    "sounds": [
+      "minescapersmusic:a_new_menace"
+    ]
+  },
+  "a_pirates_life_for_me": {
+    "sounds": [
+      "minescapersmusic:a_pirates_life_for_me"
+    ]
+  },
+  "a_purse_full_of_silver": {
+    "sounds": [
+      "minescapersmusic:a_purse_full_of_silver"
+    ]
+  },
+  "a_song_for_khnum": {
+    "sounds": [
+      "minescapersmusic:a_song_for_khnum"
+    ]
+  },
+  "abomination": {
+    "sounds": [
+      "minescapersmusic:abomination"
+    ]
+  },
+  "above_the_city": {
+    "sounds": [
+      "minescapersmusic:above_the_city"
+    ]
+  },
+  "abstract_of_seren": {
+    "sounds": [
+      "minescapersmusic:abstract_of_seren"
+    ]
+  },
+  "abstract_of_sliske": {
+    "sounds": [
+      "minescapersmusic:abstract_of_sliske"
+    ]
+  },
+  "abstract_of_zamorak": {
+    "sounds": [
+      "minescapersmusic:abstract_of_zamorak"
+    ]
+  },
+  "abstract_of_zaros": {
+    "sounds": [
+      "minescapersmusic:abstract_of_zaros"
+    ]
+  },
+  "abyssopelagic": {
+    "sounds": [
+      "minescapersmusic:abyssopelagic"
+    ]
+  },
+  "adagio_for_anachronia": {
+    "sounds": [
+      "minescapersmusic:adagio_for_anachronia"
+    ]
+  },
+  "adorno_i": {
+    "sounds": [
+      "minescapersmusic:adorno_i"
+    ]
+  },
+  "adorno_ii": {
+    "sounds": [
+      "minescapersmusic:adorno_ii"
+    ]
+  },
+  "adorno_iii": {
+    "sounds": [
+      "minescapersmusic:adorno_iii"
+    ]
+  },
+  "adorno_ix": {
+    "sounds": [
+      "minescapersmusic:adorno_ix"
+    ]
+  },
+  "adorno_v": {
+    "sounds": [
+      "minescapersmusic:adorno_v"
+    ]
+  },
+  "adorno_vi": {
+    "sounds": [
+      "minescapersmusic:adorno_vi"
+    ]
+  },
+  "adorno_vii": {
+    "sounds": [
+      "minescapersmusic:adorno_vii"
+    ]
+  },
+  "adorno_viii": {
+    "sounds": [
+      "minescapersmusic:adorno_viii"
+    ]
+  },
+  "adorno_x": {
+    "sounds": [
+      "minescapersmusic:adorno_x"
+    ]
+  },
+  "adventure": {
+    "sounds": [
+      "minescapersmusic:adventure"
+    ]
+  },
+  "agents_of_keli": {
+    "sounds": [
+      "minescapersmusic:agents_of_keli"
+    ]
+  },
+  "airut_ambush": {
+    "sounds": [
+      "minescapersmusic:airut_ambush"
+    ]
+  },
+  "al_kharid": {
+    "sounds": [
+      "minescapersmusic:al_kharid"
+    ]
+  },
+  "all_for_the_pest": {
+    "sounds": [
+      "minescapersmusic:all_for_the_pest"
+    ]
+  },
+  "alls_fairy_in_love_and_war": {
+    "sounds": [
+      "minescapersmusic:alls_fairy_in_love_and_war"
+    ]
+  },
+  "alone": {
+    "sounds": [
+      "minescapersmusic:alone"
+    ]
+  },
+  "alpha_omega": {
+    "sounds": [
+      "minescapersmusic:alpha_omega"
+    ]
+  },
+  "altar_ego": {
+    "sounds": [
+      "minescapersmusic:altar_ego"
+    ]
+  },
+  "alternative_root": {
+    "sounds": [
+      "minescapersmusic:alternative_root"
+    ]
+  },
+  "always_on_my_rind": {
+    "sounds": [
+      "minescapersmusic:always_on_my_rind"
+    ]
+  },
+  "amascut_the_devourer": {
+    "sounds": [
+      "minescapersmusic:amascut_the_devourer"
+    ]
+  },
+  "ambient_jungle": {
+    "sounds": [
+      "minescapersmusic:ambient_jungle"
+    ]
+  },
+  "aminishi_adventure": {
+    "sounds": [
+      "minescapersmusic:aminishi_adventure"
+    ]
+  },
+  "among_tirannwn_trees": {
+    "sounds": [
+      "minescapersmusic:among_tirannwn_trees"
+    ]
+  },
+  "amor_fati": {
+    "sounds": [
+      "minescapersmusic:amor_fati"
+    ]
+  },
+  "an_easter_united": {
+    "sounds": [
+      "minescapersmusic:an_easter_united"
+    ]
+  },
+  "an_echo_throughout_time": {
+    "sounds": [
+      "minescapersmusic:an_echo_throughout_time"
+    ]
+  },
+  "anachronia_encounter": {
+    "sounds": [
+      "minescapersmusic:anachronia_encounter"
+    ]
+  },
+  "ancestral_wisdom": {
+    "sounds": [
+      "minescapersmusic:ancestral_wisdom"
+    ]
+  },
+  "angel_of_death_prelude": {
+    "sounds": [
+      "minescapersmusic:angel_of_death_prelude"
+    ]
+  },
+  "angel_of_death": {
+    "sounds": [
+      "minescapersmusic:angel_of_death"
+    ]
+  },
+  "anima": {
+    "sounds": [
+      "minescapersmusic:anima"
+    ]
+  },
+  "animal_apogee": {
+    "sounds": [
+      "minescapersmusic:animal_apogee"
+    ]
+  },
+  "anywhere": {
+    "sounds": [
+      "minescapersmusic:anywhere"
+    ]
+  },
+  "aquarium": {
+    "sounds": [
+      "minescapersmusic:aquarium"
+    ]
+  },
+  "arabian": {
+    "sounds": [
+      "minescapersmusic:arabian"
+    ]
+  },
+  "arabian2": {
+    "sounds": [
+      "minescapersmusic:arabian2"
+    ]
+  },
+  "arabian3": {
+    "sounds": [
+      "minescapersmusic:arabian3"
+    ]
+  },
+  "arabique": {
+    "sounds": [
+      "minescapersmusic:arabique"
+    ]
+  },
+  "arboretum": {
+    "sounds": [
+      "minescapersmusic:arboretum"
+    ]
+  },
+  "archaeology_theme": {
+    "sounds": [
+      "minescapersmusic:archaeology_theme"
+    ]
+  },
+  "architect_of_war": {
+    "sounds": [
+      "minescapersmusic:architect_of_war"
+    ]
+  },
+  "ardougne_ago": {
+    "sounds": [
+      "minescapersmusic:ardougne_ago"
+    ]
+  },
+  "arise_hero": {
+    "sounds": [
+      "minescapersmusic:arise_hero"
+    ]
+  },
+  "arise_legend": {
+    "sounds": [
+      "minescapersmusic:arise_legend"
+    ]
+  },
+  "arma_gonna_get_you": {
+    "sounds": [
+      "minescapersmusic:arma_gonna_get_you"
+    ]
+  },
+  "armadyl_alliance": {
+    "sounds": [
+      "minescapersmusic:armadyl_alliance"
+    ]
+  },
+  "armageddon": {
+    "sounds": [
+      "minescapersmusic:armageddon"
+    ]
+  },
+  "army_of_darkness": {
+    "sounds": [
+      "minescapersmusic:army_of_darkness"
+    ]
+  },
+  "arrival": {
+    "sounds": [
+      "minescapersmusic:arrival"
+    ]
+  },
+  "artistry": {
+    "sounds": [
+      "minescapersmusic:artistry"
+    ]
+  },
+  "as_fete_would_have_it": {
+    "sounds": [
+      "minescapersmusic:as_fete_would_have_it"
+    ]
+  },
+  "as_rum_can_be": {
+    "sounds": [
+      "minescapersmusic:as_rum_can_be"
+    ]
+  },
+  "assault_and_battery": {
+    "sounds": [
+      "minescapersmusic:assault_and_battery"
+    ]
+  },
+  "astea_frostweb": {
+    "sounds": [
+      "minescapersmusic:astea_frostweb"
+    ]
+  },
+  "astral_conflict": {
+    "sounds": [
+      "minescapersmusic:astral_conflict"
+    ]
+  },
+  "attack_i": {
+    "sounds": [
+      "minescapersmusic:attack_i"
+    ]
+  },
+  "attack_ii": {
+    "sounds": [
+      "minescapersmusic:attack_ii"
+    ]
+  },
+  "attack_iii": {
+    "sounds": [
+      "minescapersmusic:attack_iii"
+    ]
+  },
+  "attack_iv": {
+    "sounds": [
+      "minescapersmusic:attack_iv"
+    ]
+  },
+  "attack_v": {
+    "sounds": [
+      "minescapersmusic:attack_v"
+    ]
+  },
+  "attack_vi": {
+    "sounds": [
+      "minescapersmusic:attack_vi"
+    ]
+  },
+  "attention": {
+    "sounds": [
+      "minescapersmusic:attention"
+    ]
+  },
+  "autumn_breeze": {
+    "sounds": [
+      "minescapersmusic:autumn_breeze"
+    ]
+  },
+  "autumn_voyage": {
+    "sounds": [
+      "minescapersmusic:autumn_voyage"
+    ]
+  },
+  "awoken": {
+    "sounds": [
+      "minescapersmusic:awoken"
+    ]
+  },
+  "aye_car_rum_ba": {
+    "sounds": [
+      "minescapersmusic:aye_car_rum_ba"
+    ]
+  },
+  "aztec": {
+    "sounds": [
+      "minescapersmusic:aztec"
+    ]
+  },
+  "back_to_life": {
+    "sounds": [
+      "minescapersmusic:back_to_life"
+    ]
+  },
+  "back_to_the_freezer": {
+    "sounds": [
+      "minescapersmusic:back_to_the_freezer"
+    ]
+  },
+  "background": {
+    "sounds": [
+      "minescapersmusic:background"
+    ]
+  },
+  "bad_idea": {
+    "sounds": [
+      "minescapersmusic:bad_idea"
+    ]
+  },
+  "ballak_the_pummeller": {
+    "sounds": [
+      "minescapersmusic:ballak_the_pummeller"
+    ]
+  },
+  "ballad_of_enchantment": {
+    "sounds": [
+      "minescapersmusic:ballad_of_enchantment"
+    ]
+  },
+  "ballad_of_the_basilisk": {
+    "sounds": [
+      "minescapersmusic:ballad_of_the_basilisk"
+    ]
+  },
+  "bandit_camp": {
+    "sounds": [
+      "minescapersmusic:bandit_camp"
+    ]
+  },
+  "bandos_battalion": {
+    "sounds": [
+      "minescapersmusic:bandos_battalion"
+    ]
+  },
+  "bandosian_tournament": {
+    "sounds": [
+      "minescapersmusic:bandosian_tournament"
+    ]
+  },
+  "bane_of_summer": {
+    "sounds": [
+      "minescapersmusic:bane_of_summer"
+    ]
+  },
+  "barb_wire": {
+    "sounds": [
+      "minescapersmusic:barb_wire"
+    ]
+  },
+  "barbarianism": {
+    "sounds": [
+      "minescapersmusic:barbarianism"
+    ]
+  },
+  "barking_mad": {
+    "sounds": [
+      "minescapersmusic:barking_mad"
+    ]
+  },
+  "baroque_ii": {
+    "sounds": [
+      "minescapersmusic:baroque_ii"
+    ]
+  },
+  "baroque": {
+    "sounds": [
+      "minescapersmusic:baroque"
+    ]
+  },
+  "bathypelagic": {
+    "sounds": [
+      "minescapersmusic:bathypelagic"
+    ]
+  },
+  "battered_soul": {
+    "sounds": [
+      "minescapersmusic:battered_soul"
+    ]
+  },
+  "battle_of_souls": {
+    "sounds": [
+      "minescapersmusic:battle_of_souls"
+    ]
+  },
+  "battlefield_i": {
+    "sounds": [
+      "minescapersmusic:battlefield_i"
+    ]
+  },
+  "battlefield_ii": {
+    "sounds": [
+      "minescapersmusic:battlefield_ii"
+    ]
+  },
+  "baxtorians_hollow": {
+    "sounds": [
+      "minescapersmusic:baxtorians_hollow"
+    ]
+  },
+  "beast_of_the_undercurrents": {
+    "sounds": [
+      "minescapersmusic:beast_of_the_undercurrents"
+    ]
+  },
+  "beastmaster_durzag": {
+    "sounds": [
+      "minescapersmusic:beastmaster_durzag"
+    ]
+  },
+  "beasts_of_anachronia": {
+    "sounds": [
+      "minescapersmusic:beasts_of_anachronia"
+    ]
+  },
+  "beetle_juice": {
+    "sounds": [
+      "minescapersmusic:beetle_juice"
+    ]
+  },
+  "belly_of_the_beast": {
+    "sounds": [
+      "minescapersmusic:belly_of_the_beast"
+    ]
+  },
+  "beneath_the_house": {
+    "sounds": [
+      "minescapersmusic:beneath_the_house"
+    ]
+  },
+  "better_get_kraken": {
+    "sounds": [
+      "minescapersmusic:better_get_kraken"
+    ]
+  },
+  "beyond_the_storm_wall": {
+    "sounds": [
+      "minescapersmusic:beyond_the_storm_wall"
+    ]
+  },
+  "beyond_times_reach": {
+    "sounds": [
+      "minescapersmusic:beyond_times_reach"
+    ]
+  },
+  "beyond": {
+    "sounds": [
+      "minescapersmusic:beyond"
+    ]
+  },
+  "big_chords": {
+    "sounds": [
+      "minescapersmusic:big_chords"
+    ]
+  },
+  "bird_of_prey": {
+    "sounds": [
+      "minescapersmusic:bird_of_prey"
+    ]
+  },
+  "bish_bash_bosh": {
+    "sounds": [
+      "minescapersmusic:bish_bash_bosh"
+    ]
+  },
+  "bittersweet_bunny": {
+    "sounds": [
+      "minescapersmusic:bittersweet_bunny"
+    ]
+  },
+  "black_of_knight": {
+    "sounds": [
+      "minescapersmusic:black_of_knight"
+    ]
+  },
+  "black_zabeth": {
+    "sounds": [
+      "minescapersmusic:black_zabeth"
+    ]
+  },
+  "blackstone_scales": {
+    "sounds": [
+      "minescapersmusic:blackstone_scales"
+    ]
+  },
+  "blackstone_shadows": {
+    "sounds": [
+      "minescapersmusic:blackstone_shadows"
+    ]
+  },
+  "blackstone_summons": {
+    "sounds": [
+      "minescapersmusic:blackstone_summons"
+    ]
+  },
+  "blink": {
+    "sounds": [
+      "minescapersmusic:blink"
+    ]
+  },
+  "blistering_barnacles": {
+    "sounds": [
+      "minescapersmusic:blistering_barnacles"
+    ]
+  },
+  "blood_hunt": {
+    "sounds": [
+      "minescapersmusic:blood_hunt"
+    ]
+  },
+  "bloodbath": {
+    "sounds": [
+      "minescapersmusic:bloodbath"
+    ]
+  },
+  "bloody_foundation": {
+    "sounds": [
+      "minescapersmusic:bloody_foundation"
+    ]
+  },
+  "blue_wizards": {
+    "sounds": [
+      "minescapersmusic:blue_wizards"
+    ]
+  },
+  "body_parts": {
+    "sounds": [
+      "minescapersmusic:body_parts"
+    ]
+  },
+  "body_talk": {
+    "sounds": [
+      "minescapersmusic:body_talk"
+    ]
+  },
+  "bolries_diary": {
+    "sounds": [
+      "minescapersmusic:bolries_diary"
+    ]
+  },
+  "bone_dance": {
+    "sounds": [
+      "minescapersmusic:bone_dance"
+    ]
+  },
+  "bone_dry": {
+    "sounds": [
+      "minescapersmusic:bone_dry"
+    ]
+  },
+  "book_of_a_thousand_songs": {
+    "sounds": [
+      "minescapersmusic:book_of_a_thousand_songs"
+    ]
+  },
+  "book_of_spells": {
+    "sounds": [
+      "minescapersmusic:book_of_spells"
+    ]
+  },
+  "borderland": {
+    "sounds": [
+      "minescapersmusic:borderland"
+    ]
+  },
+  "born_to_do_this": {
+    "sounds": [
+      "minescapersmusic:born_to_do_this"
+    ]
+  },
+  "boulder_and_brighter": {
+    "sounds": [
+      "minescapersmusic:boulder_and_brighter"
+    ]
+  },
+  "bounty_hunter_level_1": {
+    "sounds": [
+      "minescapersmusic:bounty_hunter_level_1"
+    ]
+  },
+  "bounty_hunter_level_2": {
+    "sounds": [
+      "minescapersmusic:bounty_hunter_level_2"
+    ]
+  },
+  "bounty_hunter_level_3": {
+    "sounds": [
+      "minescapersmusic:bounty_hunter_level_3"
+    ]
+  },
+  "bounty": {
+    "sounds": [
+      "minescapersmusic:bounty"
+    ]
+  },
+  "brain_battle": {
+    "sounds": [
+      "minescapersmusic:brain_battle"
+    ]
+  },
+  "breaking_and_entering": {
+    "sounds": [
+      "minescapersmusic:breaking_and_entering"
+    ]
+  },
+  "breaking_in": {
+    "sounds": [
+      "minescapersmusic:breaking_in"
+    ]
+  },
+  "breeze": {
+    "sounds": [
+      "minescapersmusic:breeze"
+    ]
+  },
+  "brew_hoo_hoo": {
+    "sounds": [
+      "minescapersmusic:brew_hoo_hoo"
+    ]
+  },
+  "brimstails_scales": {
+    "sounds": [
+      "minescapersmusic:brimstails_scales"
+    ]
+  },
+  "broken_land": {
+    "sounds": [
+      "minescapersmusic:broken_land"
+    ]
+  },
+  "bubble_and_squeak": {
+    "sounds": [
+      "minescapersmusic:bubble_and_squeak"
+    ]
+  },
+  "building_a_better_future": {
+    "sounds": [
+      "minescapersmusic:building_a_better_future"
+    ]
+  },
+  "bulwark_beast": {
+    "sounds": [
+      "minescapersmusic:bulwark_beast"
+    ]
+  },
+  "buried_in_time": {
+    "sounds": [
+      "minescapersmusic:buried_in_time"
+    ]
+  },
+  "burthorpe_danger": {
+    "sounds": [
+      "minescapersmusic:burthorpe_danger"
+    ]
+  },
+  "burthorpe_dilemma": {
+    "sounds": [
+      "minescapersmusic:burthorpe_dilemma"
+    ]
+  },
+  "burthorpe_dreams": {
+    "sounds": [
+      "minescapersmusic:burthorpe_dreams"
+    ]
+  },
+  "burthorpe_drummer": {
+    "sounds": [
+      "minescapersmusic:burthorpe_drummer"
+    ]
+  },
+  "burthorpe_duty": {
+    "sounds": [
+      "minescapersmusic:burthorpe_duty"
+    ]
+  },
+  "busy_night": {
+    "sounds": [
+      "minescapersmusic:busy_night"
+    ]
+  },
+  "but_we_can_fight": {
+    "sounds": [
+      "minescapersmusic:but_we_can_fight"
+    ]
+  },
+  "cabin_fever": {
+    "sounds": [
+      "minescapersmusic:cabin_fever"
+    ]
+  },
+  "cage_against_the_machine": {
+    "sounds": [
+      "minescapersmusic:cage_against_the_machine"
+    ]
+  },
+  "caged_guardian": {
+    "sounds": [
+      "minescapersmusic:caged_guardian"
+    ]
+  },
+  "call_to_seiryu": {
+    "sounds": [
+      "minescapersmusic:call_to_seiryu"
+    ]
+  },
+  "calm_before_the_storm": {
+    "sounds": [
+      "minescapersmusic:calm_before_the_storm"
+    ]
+  },
+  "camelot": {
+    "sounds": [
+      "minescapersmusic:camelot"
+    ]
+  },
+  "canon_in_c": {
+    "sounds": [
+      "minescapersmusic:canon_in_c"
+    ]
+  },
+  "carnillean_rising": {
+    "sounds": [
+      "minescapersmusic:carnillean_rising"
+    ]
+  },
+  "castle_wars": {
+    "sounds": [
+      "minescapersmusic:castle_wars"
+    ]
+  },
+  "castle_warz": {
+    "sounds": [
+      "minescapersmusic:castle_warz"
+    ]
+  },
+  "cataclysm": {
+    "sounds": [
+      "minescapersmusic:cataclysm"
+    ]
+  },
+  "catacombs_and_tombs": {
+    "sounds": [
+      "minescapersmusic:catacombs_and_tombs"
+    ]
+  },
+  "catch_me_if_you_can": {
+    "sounds": [
+      "minescapersmusic:catch_me_if_you_can"
+    ]
+  },
+  "cave_background": {
+    "sounds": [
+      "minescapersmusic:cave_background"
+    ]
+  },
+  "cave_of_beasts": {
+    "sounds": [
+      "minescapersmusic:cave_of_beasts"
+    ]
+  },
+  "cave_of_the_goblins": {
+    "sounds": [
+      "minescapersmusic:cave_of_the_goblins"
+    ]
+  },
+  "cavern": {
+    "sounds": [
+      "minescapersmusic:cavern"
+    ]
+  },
+  "cavernous_mythology": {
+    "sounds": [
+      "minescapersmusic:cavernous_mythology"
+    ]
+  },
+  "cellar_song": {
+    "sounds": [
+      "minescapersmusic:cellar_song"
+    ]
+  },
+  "chain_of_command": {
+    "sounds": [
+      "minescapersmusic:chain_of_command"
+    ]
+  },
+  "chain_reaction": {
+    "sounds": [
+      "minescapersmusic:chain_reaction"
+    ]
+  },
+  "chamber_of_guthix": {
+    "sounds": [
+      "minescapersmusic:chamber_of_guthix"
+    ]
+  },
+  "chamber_of_zaros": {
+    "sounds": [
+      "minescapersmusic:chamber_of_zaros"
+    ]
+  },
+  "chamber": {
+    "sounds": [
+      "minescapersmusic:chamber"
+    ]
+  },
+  "champions_of_sliske": {
+    "sounds": [
+      "minescapersmusic:champions_of_sliske"
+    ]
+  },
+  "chaos_of_corruption": {
+    "sounds": [
+      "minescapersmusic:chaos_of_corruption"
+    ]
+  },
+  "chaos_theory": {
+    "sounds": [
+      "minescapersmusic:chaos_theory"
+    ]
+  },
+  "chaotic_cookery": {
+    "sounds": [
+      "minescapersmusic:chaotic_cookery"
+    ]
+  },
+  "charmin_farmin": {
+    "sounds": [
+      "minescapersmusic:charmin_farmin"
+    ]
+  },
+  "charred_remains": {
+    "sounds": [
+      "minescapersmusic:charred_remains"
+    ]
+  },
+  "chasm_desecrated": {
+    "sounds": [
+      "minescapersmusic:chasm_desecrated"
+    ]
+  },
+  "cheese_roll": {
+    "sounds": [
+      "minescapersmusic:cheese_roll"
+    ]
+  },
+  "chef_surprize": {
+    "sounds": [
+      "minescapersmusic:chef_surprize"
+    ]
+  },
+  "chickened_out": {
+    "sounds": [
+      "minescapersmusic:chickened_out"
+    ]
+  },
+  "chocolate_factory": {
+    "sounds": [
+      "minescapersmusic:chocolate_factory"
+    ]
+  },
+  "chompy_hunt": {
+    "sounds": [
+      "minescapersmusic:chompy_hunt"
+    ]
+  },
+  "christmas_caverns": {
+    "sounds": [
+      "minescapersmusic:christmas_caverns"
+    ]
+  },
+  "circus": {
+    "sounds": [
+      "minescapersmusic:circus"
+    ]
+  },
+  "citadel_i": {
+    "sounds": [
+      "minescapersmusic:citadel_i"
+    ]
+  },
+  "citadel_ii": {
+    "sounds": [
+      "minescapersmusic:citadel_ii"
+    ]
+  },
+  "citadel_iii": {
+    "sounds": [
+      "minescapersmusic:citadel_iii"
+    ]
+  },
+  "citadel_iv": {
+    "sounds": [
+      "minescapersmusic:citadel_iv"
+    ]
+  },
+  "citadel_ix": {
+    "sounds": [
+      "minescapersmusic:citadel_ix"
+    ]
+  },
+  "citadel_theme": {
+    "sounds": [
+      "minescapersmusic:citadel_theme"
+    ]
+  },
+  "citadel_v": {
+    "sounds": [
+      "minescapersmusic:citadel_v"
+    ]
+  },
+  "citadel_vi": {
+    "sounds": [
+      "minescapersmusic:citadel_vi"
+    ]
+  },
+  "citadel_vii": {
+    "sounds": [
+      "minescapersmusic:citadel_vii"
+    ]
+  },
+  "citadel_viii": {
+    "sounds": [
+      "minescapersmusic:citadel_viii"
+    ]
+  },
+  "citadel_x": {
+    "sounds": [
+      "minescapersmusic:citadel_x"
+    ]
+  },
+  "citadel_xi": {
+    "sounds": [
+      "minescapersmusic:citadel_xi"
+    ]
+  },
+  "citadel_xii": {
+    "sounds": [
+      "minescapersmusic:citadel_xii"
+    ]
+  },
+  "citadel_xiii": {
+    "sounds": [
+      "minescapersmusic:citadel_xiii"
+    ]
+  },
+  "citadel_xiv": {
+    "sounds": [
+      "minescapersmusic:citadel_xiv"
+    ]
+  },
+  "citadel_xv": {
+    "sounds": [
+      "minescapersmusic:citadel_xv"
+    ]
+  },
+  "citadel_xvi": {
+    "sounds": [
+      "minescapersmusic:citadel_xvi"
+    ]
+  },
+  "citharede_requiem": {
+    "sounds": [
+      "minescapersmusic:citharede_requiem"
+    ]
+  },
+  "city_of_the_dead": {
+    "sounds": [
+      "minescapersmusic:city_of_the_dead"
+    ]
+  },
+  "clan_wars": {
+    "sounds": [
+      "minescapersmusic:clan_wars"
+    ]
+  },
+  "claustrophobia": {
+    "sounds": [
+      "minescapersmusic:claustrophobia"
+    ]
+  },
+  "cliffhanger": {
+    "sounds": [
+      "minescapersmusic:cliffhanger"
+    ]
+  },
+  "close_quarters": {
+    "sounds": [
+      "minescapersmusic:close_quarters"
+    ]
+  },
+  "coleoptera": {
+    "sounds": [
+      "minescapersmusic:coleoptera"
+    ]
+  },
+  "colonel_grimsson": {
+    "sounds": [
+      "minescapersmusic:colonel_grimsson"
+    ]
+  },
+  "command_centre": {
+    "sounds": [
+      "minescapersmusic:command_centre"
+    ]
+  },
+  "competition": {
+    "sounds": [
+      "minescapersmusic:competition"
+    ]
+  },
+  "complication": {
+    "sounds": [
+      "minescapersmusic:complication"
+    ]
+  },
+  "confrontation": {
+    "sounds": [
+      "minescapersmusic:confrontation"
+    ]
+  },
+  "conspiracy_part_1": {
+    "sounds": [
+      "minescapersmusic:conspiracy_part_1"
+    ]
+  },
+  "conspiracy_part_2": {
+    "sounds": [
+      "minescapersmusic:conspiracy_part_2"
+    ]
+  },
+  "construct": {
+    "sounds": [
+      "minescapersmusic:construct"
+    ]
+  },
+  "construction_destruction": {
+    "sounds": [
+      "minescapersmusic:construction_destruction"
+    ]
+  },
+  "contemplation": {
+    "sounds": [
+      "minescapersmusic:contemplation"
+    ]
+  },
+  "contest": {
+    "sounds": [
+      "minescapersmusic:contest"
+    ]
+  },
+  "cool_for_ali_cats": {
+    "sounds": [
+      "minescapersmusic:cool_for_ali_cats"
+    ]
+  },
+  "copris_lunaris": {
+    "sounds": [
+      "minescapersmusic:copris_lunaris"
+    ]
+  },
+  "corporal_punishment": {
+    "sounds": [
+      "minescapersmusic:corporal_punishment"
+    ]
+  },
+  "corporate_callousness": {
+    "sounds": [
+      "minescapersmusic:corporate_callousness"
+    ]
+  },
+  "corridors_of_power": {
+    "sounds": [
+      "minescapersmusic:corridors_of_power"
+    ]
+  },
+  "corruption_slayer": {
+    "sounds": [
+      "minescapersmusic:corruption_slayer"
+    ]
+  },
+  "courage": {
+    "sounds": [
+      "minescapersmusic:courage"
+    ]
+  },
+  "creation": {
+    "sounds": [
+      "minescapersmusic:creation"
+    ]
+  },
+  "creature_cruelty": {
+    "sounds": [
+      "minescapersmusic:creature_cruelty"
+    ]
+  },
+  "creepy": {
+    "sounds": [
+      "minescapersmusic:creepy"
+    ]
+  },
+  "crystal_castle": {
+    "sounds": [
+      "minescapersmusic:crystal_castle"
+    ]
+  },
+  "crystal_cave": {
+    "sounds": [
+      "minescapersmusic:crystal_cave"
+    ]
+  },
+  "crystal_sword": {
+    "sounds": [
+      "minescapersmusic:crystal_sword"
+    ]
+  },
+  "cursed_crypt": {
+    "sounds": [
+      "minescapersmusic:cursed_crypt"
+    ]
+  },
+  "cursed": {
+    "sounds": [
+      "minescapersmusic:cursed"
+    ]
+  },
+  "cyclosis_shuffle": {
+    "sounds": [
+      "minescapersmusic:cyclosis_shuffle"
+    ]
+  },
+  "daemonheim_entrance": {
+    "sounds": [
+      "minescapersmusic:daemonheim_entrance"
+    ]
+  },
+  "daemonheim_fremenniks": {
+    "sounds": [
+      "minescapersmusic:daemonheim_fremenniks"
+    ]
+  },
+  "dagannoth_dawn": {
+    "sounds": [
+      "minescapersmusic:dagannoth_dawn"
+    ]
+  },
+  "dance_of_death": {
+    "sounds": [
+      "minescapersmusic:dance_of_death"
+    ]
+  },
+  "dance_of_the_sphinx": {
+    "sounds": [
+      "minescapersmusic:dance_of_the_sphinx"
+    ]
+  },
+  "dance_of_the_undead": {
+    "sounds": [
+      "minescapersmusic:dance_of_the_undead"
+    ]
+  },
+  "dangerous_logic": {
+    "sounds": [
+      "minescapersmusic:dangerous_logic"
+    ]
+  },
+  "dangerous_road": {
+    "sounds": [
+      "minescapersmusic:dangerous_road"
+    ]
+  },
+  "dangerous_way": {
+    "sounds": [
+      "minescapersmusic:dangerous_way"
+    ]
+  },
+  "dangerous": {
+    "sounds": [
+      "minescapersmusic:dangerous"
+    ]
+  },
+  "dark": {
+    "sounds": [
+      "minescapersmusic:dark"
+    ]
+  },
+  "darker_threads": {
+    "sounds": [
+      "minescapersmusic:darker_threads"
+    ]
+  },
+  "darkmeyer": {
+    "sounds": [
+      "minescapersmusic:darkmeyer"
+    ]
+  },
+  "darkness_in_misthalin": {
+    "sounds": [
+      "minescapersmusic:darkness_in_misthalin"
+    ]
+  },
+  "darkness": {
+    "sounds": [
+      "minescapersmusic:darkness"
+    ]
+  },
+  "davy_joness_locker": {
+    "sounds": [
+      "minescapersmusic:davy_joness_locker"
+    ]
+  },
+  "dawn_of_war": {
+    "sounds": [
+      "minescapersmusic:dawn_of_war"
+    ]
+  },
+  "dcii_mashup_infinity_mix": {
+    "sounds": [
+      "minescapersmusic:dcii_mashup_infinity_mix"
+    ]
+  },
+  "dead_and_buried": {
+    "sounds": [
+      "minescapersmusic:dead_and_buried"
+    ]
+  },
+  "dead_can_dance": {
+    "sounds": [
+      "minescapersmusic:dead_can_dance"
+    ]
+  },
+  "dead_quiet": {
+    "sounds": [
+      "minescapersmusic:dead_quiet"
+    ]
+  },
+  "deadlands": {
+    "sounds": [
+      "minescapersmusic:deadlands"
+    ]
+  },
+  "deadliest_catch": {
+    "sounds": [
+      "minescapersmusic:deadliest_catch"
+    ]
+  },
+  "death": {
+    "sounds": [
+      "minescapersmusic:death"
+    ]
+  },
+  "deconstruct": {
+    "sounds": [
+      "minescapersmusic:deconstruct"
+    ]
+  },
+  "deep_down": {
+    "sounds": [
+      "minescapersmusic:deep_down"
+    ]
+  },
+  "deep_sea_fishing": {
+    "sounds": [
+      "minescapersmusic:deep_sea_fishing"
+    ]
+  },
+  "deep_wildy": {
+    "sounds": [
+      "minescapersmusic:deep_wildy"
+    ]
+  },
+  "defenders_of_guthix_i": {
+    "sounds": [
+      "minescapersmusic:defenders_of_guthix_i"
+    ]
+  },
+  "defenders_of_guthix_ii": {
+    "sounds": [
+      "minescapersmusic:defenders_of_guthix_ii"
+    ]
+  },
+  "demise_of_the_dorgeshuun": {
+    "sounds": [
+      "minescapersmusic:demise_of_the_dorgeshuun"
+    ]
+  },
+  "desert_heat": {
+    "sounds": [
+      "minescapersmusic:desert_heat"
+    ]
+  },
+  "desert_island_bear": {
+    "sounds": [
+      "minescapersmusic:desert_island_bear"
+    ]
+  },
+  "desert_smoke": {
+    "sounds": [
+      "minescapersmusic:desert_smoke"
+    ]
+  },
+  "desert_voyage": {
+    "sounds": [
+      "minescapersmusic:desert_voyage"
+    ]
+  },
+  "desolate_ruins": {
+    "sounds": [
+      "minescapersmusic:desolate_ruins"
+    ]
+  },
+  "desolo_i": {
+    "sounds": [
+      "minescapersmusic:desolo_i"
+    ]
+  },
+  "desolo_ii": {
+    "sounds": [
+      "minescapersmusic:desolo_ii"
+    ]
+  },
+  "desolo_iii": {
+    "sounds": [
+      "minescapersmusic:desolo_iii"
+    ]
+  },
+  "desolo_iv": {
+    "sounds": [
+      "minescapersmusic:desolo_iv"
+    ]
+  },
+  "desolo_ix": {
+    "sounds": [
+      "minescapersmusic:desolo_ix"
+    ]
+  },
+  "desolo_v": {
+    "sounds": [
+      "minescapersmusic:desolo_v"
+    ]
+  },
+  "desolo_vi": {
+    "sounds": [
+      "minescapersmusic:desolo_vi"
+    ]
+  },
+  "desolo_vii": {
+    "sounds": [
+      "minescapersmusic:desolo_vii"
+    ]
+  },
+  "desolo_viii": {
+    "sounds": [
+      "minescapersmusic:desolo_viii"
+    ]
+  },
+  "desolo_x": {
+    "sounds": [
+      "minescapersmusic:desolo_x"
+    ]
+  },
+  "destiny": {
+    "sounds": [
+      "minescapersmusic:destiny"
+    ]
+  },
+  "diangos_little_helpers": {
+    "sounds": [
+      "minescapersmusic:diangos_little_helpers"
+    ]
+  },
+  "dillogence_is_key": {
+    "sounds": [
+      "minescapersmusic:dillogence_is_key"
+    ]
+  },
+  "dimension_x": {
+    "sounds": [
+      "minescapersmusic:dimension_x"
+    ]
+  },
+  "dinosaur_slayer": {
+    "sounds": [
+      "minescapersmusic:dinosaur_slayer"
+    ]
+  },
+  "dip_a_toe_instrumental": {
+    "sounds": [
+      "minescapersmusic:dip_a_toe_instrumental"
+    ]
+  },
+  "dip_a_toe": {
+    "sounds": [
+      "minescapersmusic:dip_a_toe"
+    ]
+  },
+  "dirge_of_drakan": {
+    "sounds": [
+      "minescapersmusic:dirge_of_drakan"
+    ]
+  },
+  "discover": {
+    "sounds": [
+      "minescapersmusic:discover"
+    ]
+  },
+  "disorder": {
+    "sounds": [
+      "minescapersmusic:disorder"
+    ]
+  },
+  "distant_land": {
+    "sounds": [
+      "minescapersmusic:distant_land"
+    ]
+  },
+  "distillery_hilarity": {
+    "sounds": [
+      "minescapersmusic:distillery_hilarity"
+    ]
+  },
+  "divine_skinweaver": {
+    "sounds": [
+      "minescapersmusic:divine_skinweaver"
+    ]
+  },
+  "dogs_of_war": {
+    "sounds": [
+      "minescapersmusic:dogs_of_war"
+    ]
+  },
+  "dominion_lobby_i": {
+    "sounds": [
+      "minescapersmusic:dominion_lobby_i"
+    ]
+  },
+  "dominion_lobby_ii": {
+    "sounds": [
+      "minescapersmusic:dominion_lobby_ii"
+    ]
+  },
+  "dominion_lobby_iii": {
+    "sounds": [
+      "minescapersmusic:dominion_lobby_iii"
+    ]
+  },
+  "dominion_tower_i": {
+    "sounds": [
+      "minescapersmusic:dominion_tower_i"
+    ]
+  },
+  "dominion_tower_ii": {
+    "sounds": [
+      "minescapersmusic:dominion_tower_ii"
+    ]
+  },
+  "dominion_tower_iii": {
+    "sounds": [
+      "minescapersmusic:dominion_tower_iii"
+    ]
+  },
+  "dominion_tower_iv": {
+    "sounds": [
+      "minescapersmusic:dominion_tower_iv"
+    ]
+  },
+  "dominion_tower_v": {
+    "sounds": [
+      "minescapersmusic:dominion_tower_v"
+    ]
+  },
+  "dont_panic_zanik": {
+    "sounds": [
+      "minescapersmusic:dont_panic_zanik"
+    ]
+  },
+  "doorways": {
+    "sounds": [
+      "minescapersmusic:doorways"
+    ]
+  },
+  "dorgeshuun_city": {
+    "sounds": [
+      "minescapersmusic:dorgeshuun_city"
+    ]
+  },
+  "dorgeshuun_deep": {
+    "sounds": [
+      "minescapersmusic:dorgeshuun_deep"
+    ]
+  },
+  "down_and_out": {
+    "sounds": [
+      "minescapersmusic:down_and_out"
+    ]
+  },
+  "down_below": {
+    "sounds": [
+      "minescapersmusic:down_below"
+    ]
+  },
+  "down_to_earth": {
+    "sounds": [
+      "minescapersmusic:down_to_earth"
+    ]
+  },
+  "dracopelagic": {
+    "sounds": [
+      "minescapersmusic:dracopelagic"
+    ]
+  },
+  "dragon_rider": {
+    "sounds": [
+      "minescapersmusic:dragon_rider"
+    ]
+  },
+  "dragonkin_of_old": {
+    "sounds": [
+      "minescapersmusic:dragonkin_of_old"
+    ]
+  },
+  "dragonkin_theme": {
+    "sounds": [
+      "minescapersmusic:dragonkin_theme"
+    ]
+  },
+  "dragonkind": {
+    "sounds": [
+      "minescapersmusic:dragonkind"
+    ]
+  },
+  "dragontooth_island": {
+    "sounds": [
+      "minescapersmusic:dragontooth_island"
+    ]
+  },
+  "drains_and_canals": {
+    "sounds": [
+      "minescapersmusic:drains_and_canals"
+    ]
+  },
+  "draynor_market": {
+    "sounds": [
+      "minescapersmusic:draynor_market"
+    ]
+  },
+  "dreadnaut": {
+    "sounds": [
+      "minescapersmusic:dreadnaut"
+    ]
+  },
+  "dream_theatre": {
+    "sounds": [
+      "minescapersmusic:dream_theatre"
+    ]
+  },
+  "dream": {
+    "sounds": [
+      "minescapersmusic:dream"
+    ]
+  },
+  "dreamstate": {
+    "sounds": [
+      "minescapersmusic:dreamstate"
+    ]
+  },
+  "duel_arena": {
+    "sounds": [
+      "minescapersmusic:duel_arena"
+    ]
+  },
+  "dune": {
+    "sounds": [
+      "minescapersmusic:dune"
+    ]
+  },
+  "dunjun": {
+    "sounds": [
+      "minescapersmusic:dunjun"
+    ]
+  },
+  "duplicity": {
+    "sounds": [
+      "minescapersmusic:duplicity"
+    ]
+  },
+  "dusk_in_yubiusk": {
+    "sounds": [
+      "minescapersmusic:dusk_in_yubiusk"
+    ]
+  },
+  "dwarf_theme": {
+    "sounds": [
+      "minescapersmusic:dwarf_theme"
+    ]
+  },
+  "dying_light_ii": {
+    "sounds": [
+      "minescapersmusic:dying_light_ii"
+    ]
+  },
+  "dying_light": {
+    "sounds": [
+      "minescapersmusic:dying_light"
+    ]
+  },
+  "dynasty": {
+    "sounds": [
+      "minescapersmusic:dynasty"
+    ]
+  },
+  "eagle_peak": {
+    "sounds": [
+      "minescapersmusic:eagle_peak"
+    ]
+  },
+  "easter_jig": {
+    "sounds": [
+      "minescapersmusic:easter_jig"
+    ]
+  },
+  "eastern_promise": {
+    "sounds": [
+      "minescapersmusic:eastern_promise"
+    ]
+  },
+  "echoes_of_guthix": {
+    "sounds": [
+      "minescapersmusic:echoes_of_guthix"
+    ]
+  },
+  "echoes_of_the_tempest": {
+    "sounds": [
+      "minescapersmusic:echoes_of_the_tempest"
+    ]
+  },
+  "egypt": {
+    "sounds": [
+      "minescapersmusic:egypt"
+    ]
+  },
+  "elder_daughter": {
+    "sounds": [
+      "minescapersmusic:elder_daughter"
+    ]
+  },
+  "elder_fury": {
+    "sounds": [
+      "minescapersmusic:elder_fury"
+    ]
+  },
+  "electric_storm": {
+    "sounds": [
+      "minescapersmusic:electric_storm"
+    ]
+  },
+  "elven_blood": {
+    "sounds": [
+      "minescapersmusic:elven_blood"
+    ]
+  },
+  "elven_bluebell": {
+    "sounds": [
+      "minescapersmusic:elven_bluebell"
+    ]
+  },
+  "elven_daffodil": {
+    "sounds": [
+      "minescapersmusic:elven_daffodil"
+    ]
+  },
+  "elven_dhalia": {
+    "sounds": [
+      "minescapersmusic:elven_dhalia"
+    ]
+  },
+  "elven_elite": {
+    "sounds": [
+      "minescapersmusic:elven_elite"
+    ]
+  },
+  "elven_heart": {
+    "sounds": [
+      "minescapersmusic:elven_heart"
+    ]
+  },
+  "elven_holly": {
+    "sounds": [
+      "minescapersmusic:elven_holly"
+    ]
+  },
+  "elven_lily": {
+    "sounds": [
+      "minescapersmusic:elven_lily"
+    ]
+  },
+  "elven_mist": {
+    "sounds": [
+      "minescapersmusic:elven_mist"
+    ]
+  },
+  "elven_mother": {
+    "sounds": [
+      "minescapersmusic:elven_mother"
+    ]
+  },
+  "elven_nightshade": {
+    "sounds": [
+      "minescapersmusic:elven_nightshade"
+    ]
+  },
+  "elven_rose": {
+    "sounds": [
+      "minescapersmusic:elven_rose"
+    ]
+  },
+  "elven_seed": {
+    "sounds": [
+      "minescapersmusic:elven_seed"
+    ]
+  },
+  "elven_snapegrass": {
+    "sounds": [
+      "minescapersmusic:elven_snapegrass"
+    ]
+  },
+  "elven_sunlight": {
+    "sounds": [
+      "minescapersmusic:elven_sunlight"
+    ]
+  },
+  "elven_sunrise": {
+    "sounds": [
+      "minescapersmusic:elven_sunrise"
+    ]
+  },
+  "elven_sunset": {
+    "sounds": [
+      "minescapersmusic:elven_sunset"
+    ]
+  },
+  "elven_voice": {
+    "sounds": [
+      "minescapersmusic:elven_voice"
+    ]
+  },
+  "emotion": {
+    "sounds": [
+      "minescapersmusic:emotion"
+    ]
+  },
+  "emperor": {
+    "sounds": [
+      "minescapersmusic:emperor"
+    ]
+  },
+  "empyrean_citadel": {
+    "sounds": [
+      "minescapersmusic:empyrean_citadel"
+    ]
+  },
+  "end_song": {
+    "sounds": [
+      "minescapersmusic:end_song"
+    ]
+  },
+  "entombed": {
+    "sounds": [
+      "minescapersmusic:entombed"
+    ]
+  },
+  "epilogue": {
+    "sounds": [
+      "minescapersmusic:epilogue"
+    ]
+  },
+  "epipelagic": {
+    "sounds": [
+      "minescapersmusic:epipelagic"
+    ]
+  },
+  "eruption": {
+    "sounds": [
+      "minescapersmusic:eruption"
+    ]
+  },
+  "escape": {
+    "sounds": [
+      "minescapersmusic:escape"
+    ]
+  },
+  "espionage": {
+    "sounds": [
+      "minescapersmusic:espionage"
+    ]
+  },
+  "etcetera": {
+    "sounds": [
+      "minescapersmusic:etcetera"
+    ]
+  },
+  "eureka": {
+    "sounds": [
+      "minescapersmusic:eureka"
+    ]
+  },
+  "everlasting_fire": {
+    "sounds": [
+      "minescapersmusic:everlasting_fire"
+    ]
+  },
+  "everlasting": {
+    "sounds": [
+      "minescapersmusic:everlasting"
+    ]
+  },
+  "everlight": {
+    "sounds": [
+      "minescapersmusic:everlight"
+    ]
+  },
+  "everything_in_its_right_palace": {
+    "sounds": [
+      "minescapersmusic:everything_in_its_right_palace"
+    ]
+  },
+  "everywhere": {
+    "sounds": [
+      "minescapersmusic:everywhere"
+    ]
+  },
+  "evil_bobs_island": {
+    "sounds": [
+      "minescapersmusic:evil_bobs_island"
+    ]
+  },
+  "evil_daves_theme": {
+    "sounds": [
+      "minescapersmusic:evil_daves_theme"
+    ]
+  },
+  "evil_spirit": {
+    "sounds": [
+      "minescapersmusic:evil_spirit"
+    ]
+  },
+  "evil": {
+    "sounds": [
+      "minescapersmusic:evil"
+    ]
+  },
+  "exam_conditions": {
+    "sounds": [
+      "minescapersmusic:exam_conditions"
+    ]
+  },
+  "exhibit_a": {
+    "sounds": [
+      "minescapersmusic:exhibit_a"
+    ]
+  },
+  "exorcism": {
+    "sounds": [
+      "minescapersmusic:exorcism"
+    ]
+  },
+  "expanse": {
+    "sounds": [
+      "minescapersmusic:expanse"
+    ]
+  },
+  "expecting": {
+    "sounds": [
+      "minescapersmusic:expecting"
+    ]
+  },
+  "expedition": {
+    "sounds": [
+      "minescapersmusic:expedition"
+    ]
+  },
+  "exposed": {
+    "sounds": [
+      "minescapersmusic:exposed"
+    ]
+  },
+  "eye_for_an_eye_instrumental": {
+    "sounds": [
+      "minescapersmusic:eye_for_an_eye_instrumental"
+    ]
+  },
+  "eye_for_an_eye": {
+    "sounds": [
+      "minescapersmusic:eye_for_an_eye"
+    ]
+  },
+  "eye_spy": {
+    "sounds": [
+      "minescapersmusic:eye_spy"
+    ]
+  },
+  "face_off": {
+    "sounds": [
+      "minescapersmusic:face_off"
+    ]
+  },
+  "faces_obscura": {
+    "sounds": [
+      "minescapersmusic:faces_obscura"
+    ]
+  },
+  "faerie": {
+    "sounds": [
+      "minescapersmusic:faerie"
+    ]
+  },
+  "faithless": {
+    "sounds": [
+      "minescapersmusic:faithless"
+    ]
+  },
+  "fanfare": {
+    "sounds": [
+      "minescapersmusic:fanfare"
+    ]
+  },
+  "fanfare2": {
+    "sounds": [
+      "minescapersmusic:fanfare2"
+    ]
+  },
+  "fanfare3": {
+    "sounds": [
+      "minescapersmusic:fanfare3"
+    ]
+  },
+  "fangs_for_the_memory": {
+    "sounds": [
+      "minescapersmusic:fangs_for_the_memory"
+    ]
+  },
+  "far_away": {
+    "sounds": [
+      "minescapersmusic:far_away"
+    ]
+  },
+  "fe_fi_fo_fum": {
+    "sounds": [
+      "minescapersmusic:fe_fi_fo_fum"
+    ]
+  },
+  "fear_and_loathing": {
+    "sounds": [
+      "minescapersmusic:fear_and_loathing"
+    ]
+  },
+  "fenkenstrains_refrain": {
+    "sounds": [
+      "minescapersmusic:fenkenstrains_refrain"
+    ]
+  },
+  "fern": {
+    "sounds": [
+      "minescapersmusic:fern"
+    ]
+  },
+  "fight_of_the_dwarves": {
+    "sounds": [
+      "minescapersmusic:fight_of_the_dwarves"
+    ]
+  },
+  "fight_or_flight": {
+    "sounds": [
+      "minescapersmusic:fight_or_flight"
+    ]
+  },
+  "fighting_and_praying": {
+    "sounds": [
+      "minescapersmusic:fighting_and_praying"
+    ]
+  },
+  "fighting_for_light_part_i": {
+    "sounds": [
+      "minescapersmusic:fighting_for_light_part_i"
+    ]
+  },
+  "fighting_for_light_part_ii": {
+    "sounds": [
+      "minescapersmusic:fighting_for_light_part_ii"
+    ]
+  },
+  "final_destination": {
+    "sounds": [
+      "minescapersmusic:final_destination"
+    ]
+  },
+  "final_showdown": {
+    "sounds": [
+      "minescapersmusic:final_showdown"
+    ]
+  },
+  "find_my_way": {
+    "sounds": [
+      "minescapersmusic:find_my_way"
+    ]
+  },
+  "fire_and_brimstone": {
+    "sounds": [
+      "minescapersmusic:fire_and_brimstone"
+    ]
+  },
+  "fishing": {
+    "sounds": [
+      "minescapersmusic:fishing"
+    ]
+  },
+  "flash_factory": {
+    "sounds": [
+      "minescapersmusic:flash_factory"
+    ]
+  },
+  "fleshspoiler_haasghenahk": {
+    "sounds": [
+      "minescapersmusic:fleshspoiler_haasghenahk"
+    ]
+  },
+  "floating_free": {
+    "sounds": [
+      "minescapersmusic:floating_free"
+    ]
+  },
+  "flute_salad": {
+    "sounds": [
+      "minescapersmusic:flute_salad"
+    ]
+  },
+  "food_for_thought": {
+    "sounds": [
+      "minescapersmusic:food_for_thought"
+    ]
+  },
+  "forbidden": {
+    "sounds": [
+      "minescapersmusic:forbidden"
+    ]
+  },
+  "forest": {
+    "sounds": [
+      "minescapersmusic:forest"
+    ]
+  },
+  "forever": {
+    "sounds": [
+      "minescapersmusic:forever"
+    ]
+  },
+  "forgettable_melody": {
+    "sounds": [
+      "minescapersmusic:forgettable_melody"
+    ]
+  },
+  "forgotten_continent": {
+    "sounds": [
+      "minescapersmusic:forgotten_continent"
+    ]
+  },
+  "forgotten_orders": {
+    "sounds": [
+      "minescapersmusic:forgotten_orders"
+    ]
+  },
+  "forgotten": {
+    "sounds": [
+      "minescapersmusic:forgotten"
+    ]
+  },
+  "formation": {
+    "sounds": [
+      "minescapersmusic:formation"
+    ]
+  },
+  "fragments_of_guthix": {
+    "sounds": [
+      "minescapersmusic:fragments_of_guthix"
+    ]
+  },
+  "free_death": {
+    "sounds": [
+      "minescapersmusic:free_death"
+    ]
+  },
+  "freneskae": {
+    "sounds": [
+      "minescapersmusic:freneskae"
+    ]
+  },
+  "freshwater": {
+    "sounds": [
+      "minescapersmusic:freshwater"
+    ]
+  },
+  "frogland": {
+    "sounds": [
+      "minescapersmusic:frogland"
+    ]
+  },
+  "frost_fight": {
+    "sounds": [
+      "minescapersmusic:frost_fight"
+    ]
+  },
+  "frostbite": {
+    "sounds": [
+      "minescapersmusic:frostbite"
+    ]
+  },
+  "fruits_de_mer": {
+    "sounds": [
+      "minescapersmusic:fruits_de_mer"
+    ]
+  },
+  "fun_of_the_fayre": {
+    "sounds": [
+      "minescapersmusic:fun_of_the_fayre"
+    ]
+  },
+  "funny_bunnies": {
+    "sounds": [
+      "minescapersmusic:funny_bunnies"
+    ]
+  },
+  "funus_insula": {
+    "sounds": [
+      "minescapersmusic:funus_insula"
+    ]
+  },
+  "gaal": {
+    "sounds": [
+      "minescapersmusic:gaal"
+    ]
+  },
+  "gaol": {
+    "sounds": [
+      "minescapersmusic:gaol"
+    ]
+  },
+  "garden_echo": {
+    "sounds": [
+      "minescapersmusic:garden_echo"
+    ]
+  },
+  "garden_of_autumn": {
+    "sounds": [
+      "minescapersmusic:garden_of_autumn"
+    ]
+  },
+  "garden_of_spring": {
+    "sounds": [
+      "minescapersmusic:garden_of_spring"
+    ]
+  },
+  "garden_of_summer": {
+    "sounds": [
+      "minescapersmusic:garden_of_summer"
+    ]
+  },
+  "garden_of_winter": {
+    "sounds": [
+      "minescapersmusic:garden_of_winter"
+    ]
+  },
+  "garden": {
+    "sounds": [
+      "minescapersmusic:garden"
+    ]
+  },
+  "gemstone_dragons": {
+    "sounds": [
+      "minescapersmusic:gemstone_dragons"
+    ]
+  },
+  "getting_on_with_things": {
+    "sounds": [
+      "minescapersmusic:getting_on_with_things"
+    ]
+  },
+  "ghost_of_christmas_presents": {
+    "sounds": [
+      "minescapersmusic:ghost_of_christmas_presents"
+    ]
+  },
+  "give_it_your_pest_shot": {
+    "sounds": [
+      "minescapersmusic:give_it_your_pest_shot"
+    ]
+  },
+  "glacialis_i": {
+    "sounds": [
+      "minescapersmusic:glacialis_i"
+    ]
+  },
+  "glacialis_ii": {
+    "sounds": [
+      "minescapersmusic:glacialis_ii"
+    ]
+  },
+  "glacialis_iii": {
+    "sounds": [
+      "minescapersmusic:glacialis_iii"
+    ]
+  },
+  "glacialis_iv": {
+    "sounds": [
+      "minescapersmusic:glacialis_iv"
+    ]
+  },
+  "glacialis_ix": {
+    "sounds": [
+      "minescapersmusic:glacialis_ix"
+    ]
+  },
+  "glacialis_v": {
+    "sounds": [
+      "minescapersmusic:glacialis_v"
+    ]
+  },
+  "glacialis_vi": {
+    "sounds": [
+      "minescapersmusic:glacialis_vi"
+    ]
+  },
+  "glacialis_vii": {
+    "sounds": [
+      "minescapersmusic:glacialis_vii"
+    ]
+  },
+  "glacialis_viii": {
+    "sounds": [
+      "minescapersmusic:glacialis_viii"
+    ]
+  },
+  "glacialis_x": {
+    "sounds": [
+      "minescapersmusic:glacialis_x"
+    ]
+  },
+  "glutton_for_nourishment": {
+    "sounds": [
+      "minescapersmusic:glutton_for_nourishment"
+    ]
+  },
+  "gluttonous_behemoth": {
+    "sounds": [
+      "minescapersmusic:gluttonous_behemoth"
+    ]
+  },
+  "gnome_king": {
+    "sounds": [
+      "minescapersmusic:gnome_king"
+    ]
+  },
+  "gnome_village_i": {
+    "sounds": [
+      "minescapersmusic:gnome_village_i"
+    ]
+  },
+  "gnome_village_ii": {
+    "sounds": [
+      "minescapersmusic:gnome_village_ii"
+    ]
+  },
+  "gnomeball": {
+    "sounds": [
+      "minescapersmusic:gnomeball"
+    ]
+  },
+  "go_with_the_flow": {
+    "sounds": [
+      "minescapersmusic:go_with_the_flow"
+    ]
+  },
+  "goblin_game": {
+    "sounds": [
+      "minescapersmusic:goblin_game"
+    ]
+  },
+  "goblin_village": {
+    "sounds": [
+      "minescapersmusic:goblin_village"
+    ]
+  },
+  "godslayer": {
+    "sounds": [
+      "minescapersmusic:godslayer"
+    ]
+  },
+  "goebie_theme": {
+    "sounds": [
+      "minescapersmusic:goebie_theme"
+    ]
+  },
+  "golden_touch": {
+    "sounds": [
+      "minescapersmusic:golden_touch"
+    ]
+  },
+  "gorgonzola": {
+    "sounds": [
+      "minescapersmusic:gorgonzola"
+    ]
+  },
+  "goshima_lament_instrumental": {
+    "sounds": [
+      "minescapersmusic:goshima_lament_instrumental"
+    ]
+  },
+  "goshimas_lament": {
+    "sounds": [
+      "minescapersmusic:goshimas_lament"
+    ]
+  },
+  "grave_parade": {
+    "sounds": [
+      "minescapersmusic:grave_parade"
+    ]
+  },
+  "gravecreeper": {
+    "sounds": [
+      "minescapersmusic:gravecreeper"
+    ]
+  },
+  "greatness": {
+    "sounds": [
+      "minescapersmusic:greatness"
+    ]
+  },
+  "gregorovic": {
+    "sounds": [
+      "minescapersmusic:gregorovic"
+    ]
+  },
+  "grimly_fiendish": {
+    "sounds": [
+      "minescapersmusic:grimly_fiendish"
+    ]
+  },
+  "grip_of_the_gods": {
+    "sounds": [
+      "minescapersmusic:grip_of_the_gods"
+    ]
+  },
+  "grip_of_the_talon": {
+    "sounds": [
+      "minescapersmusic:grip_of_the_talon"
+    ]
+  },
+  "grotto": {
+    "sounds": [
+      "minescapersmusic:grotto"
+    ]
+  },
+  "ground_scape": {
+    "sounds": [
+      "minescapersmusic:ground_scape"
+    ]
+  },
+  "grumpy": {
+    "sounds": [
+      "minescapersmusic:grumpy"
+    ]
+  },
+  "guardian_of_the_grove_mvt1": {
+    "sounds": [
+      "minescapersmusic:guardian_of_the_grove_mvt1"
+    ]
+  },
+  "guardian_of_the_grove_mvt2": {
+    "sounds": [
+      "minescapersmusic:guardian_of_the_grove_mvt2"
+    ]
+  },
+  "guardian_of_the_grove_mvt3": {
+    "sounds": [
+      "minescapersmusic:guardian_of_the_grove_mvt3"
+    ]
+  },
+  "gunnarsgrunn": {
+    "sounds": [
+      "minescapersmusic:gunnarsgrunn"
+    ]
+  },
+  "guthixs_hunter": {
+    "sounds": [
+      "minescapersmusic:guthixs_hunter"
+    ]
+  },
+  "guthixs_warning": {
+    "sounds": [
+      "minescapersmusic:guthixs_warning"
+    ]
+  },
+  "ham_fisted": {
+    "sounds": [
+      "minescapersmusic:ham_fisted"
+    ]
+  },
+  "hadopelagic": {
+    "sounds": [
+      "minescapersmusic:hadopelagic"
+    ]
+  },
+  "halloween_party": {
+    "sounds": [
+      "minescapersmusic:halloween_party"
+    ]
+  },
+  "hallucinations": {
+    "sounds": [
+      "minescapersmusic:hallucinations"
+    ]
+  },
+  "ham_and_seek": {
+    "sounds": [
+      "minescapersmusic:ham_and_seek"
+    ]
+  },
+  "ham_attack": {
+    "sounds": [
+      "minescapersmusic:ham_attack"
+    ]
+  },
+  "hanging_in_the_balance": {
+    "sounds": [
+      "minescapersmusic:hanging_in_the_balance"
+    ]
+  },
+  "harlakk_the_riftsplitter": {
+    "sounds": [
+      "minescapersmusic:harlakk_the_riftsplitter"
+    ]
+  },
+  "harebrained_machines": {
+    "sounds": [
+      "minescapersmusic:harebrained_machines"
+    ]
+  },
+  "harmony": {
+    "sounds": [
+      "minescapersmusic:harmony"
+    ]
+  },
+  "harmony2": {
+    "sounds": [
+      "minescapersmusic:harmony2"
+    ]
+  },
+  "haunted_mine": {
+    "sounds": [
+      "minescapersmusic:haunted_mine"
+    ]
+  },
+  "have_a_blast": {
+    "sounds": [
+      "minescapersmusic:have_a_blast"
+    ]
+  },
+  "have_an_ice_day": {
+    "sounds": [
+      "minescapersmusic:have_an_ice_day"
+    ]
+  },
+  "head_to_head": {
+    "sounds": [
+      "minescapersmusic:head_to_head"
+    ]
+  },
+  "healin_feelin": {
+    "sounds": [
+      "minescapersmusic:healin_feelin"
+    ]
+  },
+  "heart_and_mind": {
+    "sounds": [
+      "minescapersmusic:heart_and_mind"
+    ]
+  },
+  "hells_bells": {
+    "sounds": [
+      "minescapersmusic:hells_bells"
+    ]
+  },
+  "helwyrs_hymn": {
+    "sounds": [
+      "minescapersmusic:helwyrs_hymn"
+    ]
+  },
+  "henceward": {
+    "sounds": [
+      "minescapersmusic:henceward"
+    ]
+  },
+  "here_and_there": {
+    "sounds": [
+      "minescapersmusic:here_and_there"
+    ]
+  },
+  "hermit": {
+    "sounds": [
+      "minescapersmusic:hermit"
+    ]
+  },
+  "hidden_evils": {
+    "sounds": [
+      "minescapersmusic:hidden_evils"
+    ]
+  },
+  "high_seas": {
+    "sounds": [
+      "minescapersmusic:high_seas"
+    ]
+  },
+  "high_spirits": {
+    "sounds": [
+      "minescapersmusic:high_spirits"
+    ]
+  },
+  "hobgoblin_geomancer": {
+    "sounds": [
+      "minescapersmusic:hobgoblin_geomancer"
+    ]
+  },
+  "holiday_parade": {
+    "sounds": [
+      "minescapersmusic:holiday_parade"
+    ]
+  },
+  "home_sweet_home": {
+    "sounds": [
+      "minescapersmusic:home_sweet_home"
+    ]
+  },
+  "homescape": {
+    "sounds": [
+      "minescapersmusic:homescape"
+    ]
+  },
+  "honkytonky_harmony": {
+    "sounds": [
+      "minescapersmusic:honkytonky_harmony"
+    ]
+  },
+  "honkytonky_medieval": {
+    "sounds": [
+      "minescapersmusic:honkytonky_medieval"
+    ]
+  },
+  "honkytonky_newbie_melody": {
+    "sounds": [
+      "minescapersmusic:honkytonky_newbie_melody"
+    ]
+  },
+  "honkytonky_parade": {
+    "sounds": [
+      "minescapersmusic:honkytonky_parade"
+    ]
+  },
+  "honkytonky_sea_shanty": {
+    "sounds": [
+      "minescapersmusic:honkytonky_sea_shanty"
+    ]
+  },
+  "hope_devourer": {
+    "sounds": [
+      "minescapersmusic:hope_devourer"
+    ]
+  },
+  "horizon": {
+    "sounds": [
+      "minescapersmusic:horizon"
+    ]
+  },
+  "hot_n_bothered": {
+    "sounds": [
+      "minescapersmusic:hot_n_bothered"
+    ]
+  },
+  "howls_floating_workshop": {
+    "sounds": [
+      "minescapersmusic:howls_floating_workshop"
+    ]
+  },
+  "hunted": {
+    "sounds": [
+      "minescapersmusic:hunted"
+    ]
+  },
+  "hunting_dragons": {
+    "sounds": [
+      "minescapersmusic:hunting_dragons"
+    ]
+  },
+  "hydrothanatic": {
+    "sounds": [
+      "minescapersmusic:hydrothanatic"
+    ]
+  },
+  "hypnotized": {
+    "sounds": [
+      "minescapersmusic:hypnotized"
+    ]
+  },
+  "i_can_see_you": {
+    "sounds": [
+      "minescapersmusic:i_can_see_you"
+    ]
+  },
+  "im_counting_on_you": {
+    "sounds": [
+      "minescapersmusic:im_counting_on_you"
+    ]
+  },
+  "iban": {
+    "sounds": [
+      "minescapersmusic:iban"
+    ]
+  },
+  "ice_day_for_penguins": {
+    "sounds": [
+      "minescapersmusic:ice_day_for_penguins"
+    ]
+  },
+  "ice_melody": {
+    "sounds": [
+      "minescapersmusic:ice_melody"
+    ]
+  },
+  "icthlarins_little_helper": {
+    "sounds": [
+      "minescapersmusic:icthlarins_little_helper"
+    ]
+  },
+  "icy_a_worried_gnome": {
+    "sounds": [
+      "minescapersmusic:icy_a_worried_gnome"
+    ]
+  },
+  "icy_bones": {
+    "sounds": [
+      "minescapersmusic:icy_bones"
+    ]
+  },
+  "icy_trouble_ahead": {
+    "sounds": [
+      "minescapersmusic:icy_trouble_ahead"
+    ]
+  },
+  "illuminating_the_past": {
+    "sounds": [
+      "minescapersmusic:illuminating_the_past"
+    ]
+  },
+  "illusive": {
+    "sounds": [
+      "minescapersmusic:illusive"
+    ]
+  },
+  "impetuous": {
+    "sounds": [
+      "minescapersmusic:impetuous"
+    ]
+  },
+  "in_between": {
+    "sounds": [
+      "minescapersmusic:in_between"
+    ]
+  },
+  "in_security": {
+    "sounds": [
+      "minescapersmusic:in_security"
+    ]
+  },
+  "in_the_brine": {
+    "sounds": [
+      "minescapersmusic:in_the_brine"
+    ]
+  },
+  "in_the_clink": {
+    "sounds": [
+      "minescapersmusic:in_the_clink"
+    ]
+  },
+  "in_the_manor": {
+    "sounds": [
+      "minescapersmusic:in_the_manor"
+    ]
+  },
+  "in_the_pits": {
+    "sounds": [
+      "minescapersmusic:in_the_pits"
+    ]
+  },
+  "inadequacy": {
+    "sounds": [
+      "minescapersmusic:inadequacy"
+    ]
+  },
+  "incantation": {
+    "sounds": [
+      "minescapersmusic:incantation"
+    ]
+  },
+  "incarceration": {
+    "sounds": [
+      "minescapersmusic:incarceration"
+    ]
+  },
+  "infiltration": {
+    "sounds": [
+      "minescapersmusic:infiltration"
+    ]
+  },
+  "inner_secret": {
+    "sounds": [
+      "minescapersmusic:inner_secret"
+    ]
+  },
+  "insect_queen": {
+    "sounds": [
+      "minescapersmusic:insect_queen"
+    ]
+  },
+  "inspiration": {
+    "sounds": [
+      "minescapersmusic:inspiration"
+    ]
+  },
+  "into_the_abyss": {
+    "sounds": [
+      "minescapersmusic:into_the_abyss"
+    ]
+  },
+  "intrepid": {
+    "sounds": [
+      "minescapersmusic:intrepid"
+    ]
+  },
+  "intrigue_at_menaphos": {
+    "sounds": [
+      "minescapersmusic:intrigue_at_menaphos"
+    ]
+  },
+  "invaders_must_die_i": {
+    "sounds": [
+      "minescapersmusic:invaders_must_die_i"
+    ]
+  },
+  "invaders_must_die_ii": {
+    "sounds": [
+      "minescapersmusic:invaders_must_die_ii"
+    ]
+  },
+  "invaders_must_die_iii": {
+    "sounds": [
+      "minescapersmusic:invaders_must_die_iii"
+    ]
+  },
+  "island_life": {
+    "sounds": [
+      "minescapersmusic:island_life"
+    ]
+  },
+  "island_of_the_trolls": {
+    "sounds": [
+      "minescapersmusic:island_of_the_trolls"
+    ]
+  },
+  "island_rock": {
+    "sounds": [
+      "minescapersmusic:island_rock"
+    ]
+  },
+  "isle_of_everywhere": {
+    "sounds": [
+      "minescapersmusic:isle_of_everywhere"
+    ]
+  },
+  "itsy_bitsy": {
+    "sounds": [
+      "minescapersmusic:itsy_bitsy"
+    ]
+  },
+  "jack_attack": {
+    "sounds": [
+      "minescapersmusic:jack_attack"
+    ]
+  },
+  "jadinko_jig": {
+    "sounds": [
+      "minescapersmusic:jadinko_jig"
+    ]
+  },
+  "jailbird": {
+    "sounds": [
+      "minescapersmusic:jailbird"
+    ]
+  },
+  "jaws_of_the_dagannoth": {
+    "sounds": [
+      "minescapersmusic:jaws_of_the_dagannoth"
+    ]
+  },
+  "jester_minute": {
+    "sounds": [
+      "minescapersmusic:jester_minute"
+    ]
+  },
+  "jiangshi": {
+    "sounds": [
+      "minescapersmusic:jiangshi"
+    ]
+  },
+  "jollyr": {
+    "sounds": [
+      "minescapersmusic:jollyr"
+    ]
+  },
+  "joy_of_the_hunt": {
+    "sounds": [
+      "minescapersmusic:joy_of_the_hunt"
+    ]
+  },
+  "judge_and_jury": {
+    "sounds": [
+      "minescapersmusic:judge_and_jury"
+    ]
+  },
+  "jungle_bells": {
+    "sounds": [
+      "minescapersmusic:jungle_bells"
+    ]
+  },
+  "jungle_community": {
+    "sounds": [
+      "minescapersmusic:jungle_community"
+    ]
+  },
+  "jungle_hunt": {
+    "sounds": [
+      "minescapersmusic:jungle_hunt"
+    ]
+  },
+  "jungle_island_xmas": {
+    "sounds": [
+      "minescapersmusic:jungle_island_xmas"
+    ]
+  },
+  "jungle_island": {
+    "sounds": [
+      "minescapersmusic:jungle_island"
+    ]
+  },
+  "jungle_troubles": {
+    "sounds": [
+      "minescapersmusic:jungle_troubles"
+    ]
+  },
+  "jungly1": {
+    "sounds": [
+      "minescapersmusic:jungly1"
+    ]
+  },
+  "jungly2": {
+    "sounds": [
+      "minescapersmusic:jungly2"
+    ]
+  },
+  "jungly3": {
+    "sounds": [
+      "minescapersmusic:jungly3"
+    ]
+  },
+  "kalger_the_warmonger": {
+    "sounds": [
+      "minescapersmusic:kalger_the_warmonger"
+    ]
+  },
+  "karamja_jam": {
+    "sounds": [
+      "minescapersmusic:karamja_jam"
+    ]
+  },
+  "kerapacs_curse": {
+    "sounds": [
+      "minescapersmusic:kerapacs_curse"
+    ]
+  },
+  "kerapacs_lair": {
+    "sounds": [
+      "minescapersmusic:kerapacs_lair"
+    ]
+  },
+  "kethsi": {
+    "sounds": [
+      "minescapersmusic:kethsi"
+    ]
+  },
+  "kharidian_bustle": {
+    "sounds": [
+      "minescapersmusic:kharidian_bustle"
+    ]
+  },
+  "kharidian_nights": {
+    "sounds": [
+      "minescapersmusic:kharidian_nights"
+    ]
+  },
+  "king_of_the_desert": {
+    "sounds": [
+      "minescapersmusic:king_of_the_desert"
+    ]
+  },
+  "kingdom": {
+    "sounds": [
+      "minescapersmusic:kingdom"
+    ]
+  },
+  "kneel_to_your_god": {
+    "sounds": [
+      "minescapersmusic:kneel_to_your_god"
+    ]
+  },
+  "knightly": {
+    "sounds": [
+      "minescapersmusic:knightly"
+    ]
+  },
+  "knightmare": {
+    "sounds": [
+      "minescapersmusic:knightmare"
+    ]
+  },
+  "la_mort": {
+    "sounds": [
+      "minescapersmusic:la_mort"
+    ]
+  },
+  "labyrinth": {
+    "sounds": [
+      "minescapersmusic:labyrinth"
+    ]
+  },
+  "lair_of_kang_admi": {
+    "sounds": [
+      "minescapersmusic:lair_of_kang_admi"
+    ]
+  },
+  "lair": {
+    "sounds": [
+      "minescapersmusic:lair"
+    ]
+  },
+  "lament_for_the_hallowed": {
+    "sounds": [
+      "minescapersmusic:lament_for_the_hallowed"
+    ]
+  },
+  "lament_of_meiyerditch": {
+    "sounds": [
+      "minescapersmusic:lament_of_meiyerditch"
+    ]
+  },
+  "lament_of_the_snow_queen": {
+    "sounds": [
+      "minescapersmusic:lament_of_the_snow_queen"
+    ]
+  },
+  "lament_of_the_workers": {
+    "sounds": [
+      "minescapersmusic:lament_of_the_workers"
+    ]
+  },
+  "lament": {
+    "sounds": [
+      "minescapersmusic:lament"
+    ]
+  },
+  "lamistards_labyrinth": {
+    "sounds": [
+      "minescapersmusic:lamistards_labyrinth"
+    ]
+  },
+  "land_down_under": {
+    "sounds": [
+      "minescapersmusic:land_down_under"
+    ]
+  },
+  "land_of_snow": {
+    "sounds": [
+      "minescapersmusic:land_of_snow"
+    ]
+  },
+  "land_of_the_dwarves": {
+    "sounds": [
+      "minescapersmusic:land_of_the_dwarves"
+    ]
+  },
+  "landlubber": {
+    "sounds": [
+      "minescapersmusic:landlubber"
+    ]
+  },
+  "laniakeas_journey": {
+    "sounds": [
+      "minescapersmusic:laniakeas_journey"
+    ]
+  },
+  "last_stand": {
+    "sounds": [
+      "minescapersmusic:last_stand"
+    ]
+  },
+  "lasting": {
+    "sounds": [
+      "minescapersmusic:lasting"
+    ]
+  },
+  "latent_menace": {
+    "sounds": [
+      "minescapersmusic:latent_menace"
+    ]
+  },
+  "lava_falls": {
+    "sounds": [
+      "minescapersmusic:lava_falls"
+    ]
+  },
+  "lazy_wabbit": {
+    "sounds": [
+      "minescapersmusic:lazy_wabbit"
+    ]
+  },
+  "legend": {
+    "sounds": [
+      "minescapersmusic:legend"
+    ]
+  },
+  "legion": {
+    "sounds": [
+      "minescapersmusic:legion"
+    ]
+  },
+  "lexicus_runewright": {
+    "sounds": [
+      "minescapersmusic:lexicus_runewright"
+    ]
+  },
+  "life_altaring": {
+    "sounds": [
+      "minescapersmusic:life_altaring"
+    ]
+  },
+  "life_is_good": {
+    "sounds": [
+      "minescapersmusic:life_is_good"
+    ]
+  },
+  "lifes_a_beach": {
+    "sounds": [
+      "minescapersmusic:lifes_a_beach"
+    ]
+  },
+  "lighthouse": {
+    "sounds": [
+      "minescapersmusic:lighthouse"
+    ]
+  },
+  "lightwalk": {
+    "sounds": [
+      "minescapersmusic:lightwalk"
+    ]
+  },
+  "little_cave_of_horrors": {
+    "sounds": [
+      "minescapersmusic:little_cave_of_horrors"
+    ]
+  },
+  "little_rascal": {
+    "sounds": [
+      "minescapersmusic:little_rascal"
+    ]
+  },
+  "living_rock": {
+    "sounds": [
+      "minescapersmusic:living_rock"
+    ]
+  },
+  "logical_progression": {
+    "sounds": [
+      "minescapersmusic:logical_progression"
+    ]
+  },
+  "lonesome": {
+    "sounds": [
+      "minescapersmusic:lonesome"
+    ]
+  },
+  "long_ago": {
+    "sounds": [
+      "minescapersmusic:long_ago"
+    ]
+  },
+  "long_road": {
+    "sounds": [
+      "minescapersmusic:long_road"
+    ]
+  },
+  "long_way_home": {
+    "sounds": [
+      "minescapersmusic:long_way_home"
+    ]
+  },
+  "looking_back": {
+    "sounds": [
+      "minescapersmusic:looking_back"
+    ]
+  },
+  "lords_and_ladies": {
+    "sounds": [
+      "minescapersmusic:lords_and_ladies"
+    ]
+  },
+  "lore_and_order": {
+    "sounds": [
+      "minescapersmusic:lore_and_order"
+    ]
+  },
+  "lortnoc_tsep": {
+    "sounds": [
+      "minescapersmusic:lortnoc_tsep"
+    ]
+  },
+  "lost_soul": {
+    "sounds": [
+      "minescapersmusic:lost_soul"
+    ]
+  },
+  "lost_souls": {
+    "sounds": [
+      "minescapersmusic:lost_souls"
+    ]
+  },
+  "love_and_hate": {
+    "sounds": [
+      "minescapersmusic:love_and_hate"
+    ]
+  },
+  "love_bites": {
+    "sounds": [
+      "minescapersmusic:love_bites"
+    ]
+  },
+  "love_lost": {
+    "sounds": [
+      "minescapersmusic:love_lost"
+    ]
+  },
+  "love_story": {
+    "sounds": [
+      "minescapersmusic:love_story"
+    ]
+  },
+  "lullaby": {
+    "sounds": [
+      "minescapersmusic:lullaby"
+    ]
+  },
+  "luminescent_icefiend": {
+    "sounds": [
+      "minescapersmusic:luminescent_icefiend"
+    ]
+  },
+  "machines_of_war": {
+    "sounds": [
+      "minescapersmusic:machines_of_war"
+    ]
+  },
+  "mad_eadgar": {
+    "sounds": [
+      "minescapersmusic:mad_eadgar"
+    ]
+  },
+  "mage_arena": {
+    "sounds": [
+      "minescapersmusic:mage_arena"
+    ]
+  },
+  "magic_and_mystery": {
+    "sounds": [
+      "minescapersmusic:magic_and_mystery"
+    ]
+  },
+  "magic_dance": {
+    "sounds": [
+      "minescapersmusic:magic_dance"
+    ]
+  },
+  "magic_magic_magic": {
+    "sounds": [
+      "minescapersmusic:magic_magic_magic"
+    ]
+  },
+  "magical_journey": {
+    "sounds": [
+      "minescapersmusic:magical_journey"
+    ]
+  },
+  "maiasaura": {
+    "sounds": [
+      "minescapersmusic:maiasaura"
+    ]
+  },
+  "major_miner": {
+    "sounds": [
+      "minescapersmusic:major_miner"
+    ]
+  },
+  "make_ends_meet": {
+    "sounds": [
+      "minescapersmusic:make_ends_meet"
+    ]
+  },
+  "making_waves": {
+    "sounds": [
+      "minescapersmusic:making_waves"
+    ]
+  },
+  "malady": {
+    "sounds": [
+      "minescapersmusic:malady"
+    ]
+  },
+  "mantle_depths": {
+    "sounds": [
+      "minescapersmusic:mantle_depths"
+    ]
+  },
+  "march_of_the_zyclops": {
+    "sounds": [
+      "minescapersmusic:march_of_the_zyclops"
+    ]
+  },
+  "march": {
+    "sounds": [
+      "minescapersmusic:march"
+    ]
+  },
+  "marooned": {
+    "sounds": [
+      "minescapersmusic:marooned"
+    ]
+  },
+  "marzipan": {
+    "sounds": [
+      "minescapersmusic:marzipan"
+    ]
+  },
+  "masquerade": {
+    "sounds": [
+      "minescapersmusic:masquerade"
+    ]
+  },
+  "master_of_light": {
+    "sounds": [
+      "minescapersmusic:master_of_light"
+    ]
+  },
+  "mastermindless": {
+    "sounds": [
+      "minescapersmusic:mastermindless"
+    ]
+  },
+  "masuta_the_ascended": {
+    "sounds": [
+      "minescapersmusic:masuta_the_ascended"
+    ]
+  },
+  "mausoleum": {
+    "sounds": [
+      "minescapersmusic:mausoleum"
+    ]
+  },
+  "max_reidneer_variations": {
+    "sounds": [
+      "minescapersmusic:max_reidneer_variations"
+    ]
+  },
+  "meddling_kids": {
+    "sounds": [
+      "minescapersmusic:meddling_kids"
+    ]
+  },
+  "medievil": {
+    "sounds": [
+      "minescapersmusic:medievil"
+    ]
+  },
+  "medieval_ii": {
+    "sounds": [
+      "minescapersmusic:medieval_ii"
+    ]
+  },
+  "medieval": {
+    "sounds": [
+      "minescapersmusic:medieval"
+    ]
+  },
+  "megans_tale": {
+    "sounds": [
+      "minescapersmusic:megans_tale"
+    ]
+  },
+  "mellow": {
+    "sounds": [
+      "minescapersmusic:mellow"
+    ]
+  },
+  "melodrama": {
+    "sounds": [
+      "minescapersmusic:melodrama"
+    ]
+  },
+  "melzars_maze": {
+    "sounds": [
+      "minescapersmusic:melzars_maze"
+    ]
+  },
+  "memories_from_the_grove": {
+    "sounds": [
+      "minescapersmusic:memories_from_the_grove"
+    ]
+  },
+  "memories_of_guthix": {
+    "sounds": [
+      "minescapersmusic:memories_of_guthix"
+    ]
+  },
+  "memories_of_keldagrim": {
+    "sounds": [
+      "minescapersmusic:memories_of_keldagrim"
+    ]
+  },
+  "meridian": {
+    "sounds": [
+      "minescapersmusic:meridian"
+    ]
+  },
+  "mesopelagic": {
+    "sounds": [
+      "minescapersmusic:mesopelagic"
+    ]
+  },
+  "metalwork": {
+    "sounds": [
+      "minescapersmusic:metalwork"
+    ]
+  },
+  "method_of_madness": {
+    "sounds": [
+      "minescapersmusic:method_of_madness"
+    ]
+  },
+  "miles_away": {
+    "sounds": [
+      "minescapersmusic:miles_away"
+    ]
+  },
+  "mind_over_matter": {
+    "sounds": [
+      "minescapersmusic:mind_over_matter"
+    ]
+  },
+  "mindful": {
+    "sounds": [
+      "minescapersmusic:mindful"
+    ]
+  },
+  "miracle_dance": {
+    "sounds": [
+      "minescapersmusic:miracle_dance"
+    ]
+  },
+  "mirage": {
+    "sounds": [
+      "minescapersmusic:mirage"
+    ]
+  },
+  "misadventure": {
+    "sounds": [
+      "minescapersmusic:misadventure"
+    ]
+  },
+  "miscellania": {
+    "sounds": [
+      "minescapersmusic:miscellania"
+    ]
+  },
+  "misthalin_mood_i": {
+    "sounds": [
+      "minescapersmusic:misthalin_mood_i"
+    ]
+  },
+  "misthalin_mood_ii": {
+    "sounds": [
+      "minescapersmusic:misthalin_mood_ii"
+    ]
+  },
+  "misthalin_mood_iii": {
+    "sounds": [
+      "minescapersmusic:misthalin_mood_iii"
+    ]
+  },
+  "moais_lament": {
+    "sounds": [
+      "minescapersmusic:moais_lament"
+    ]
+  },
+  "mobilising_armies": {
+    "sounds": [
+      "minescapersmusic:mobilising_armies"
+    ]
+  },
+  "monarch_waltz": {
+    "sounds": [
+      "minescapersmusic:monarch_waltz"
+    ]
+  },
+  "moneygoround": {
+    "sounds": [
+      "minescapersmusic:moneygoround"
+    ]
+  },
+  "monkey_madness": {
+    "sounds": [
+      "minescapersmusic:monkey_madness"
+    ]
+  },
+  "monkey_misadventures": {
+    "sounds": [
+      "minescapersmusic:monkey_misadventures"
+    ]
+  },
+  "monkey_see_monkey_do": {
+    "sounds": [
+      "minescapersmusic:monkey_see_monkey_do"
+    ]
+  },
+  "monster_melee": {
+    "sounds": [
+      "minescapersmusic:monster_melee"
+    ]
+  },
+  "moody": {
+    "sounds": [
+      "minescapersmusic:moody"
+    ]
+  },
+  "moral_maze_ii": {
+    "sounds": [
+      "minescapersmusic:moral_maze_ii"
+    ]
+  },
+  "moral_maze": {
+    "sounds": [
+      "minescapersmusic:moral_maze"
+    ]
+  },
+  "more_than_a_mouthful_ii": {
+    "sounds": [
+      "minescapersmusic:more_than_a_mouthful_ii"
+    ]
+  },
+  "more_than_a_mouthful": {
+    "sounds": [
+      "minescapersmusic:more_than_a_mouthful"
+    ]
+  },
+  "morytania": {
+    "sounds": [
+      "minescapersmusic:morytania"
+    ]
+  },
+  "mos_ayes_le": {
+    "sounds": [
+      "minescapersmusic:mos_ayes_le"
+    ]
+  },
+  "mouse_trap": {
+    "sounds": [
+      "minescapersmusic:mouse_trap"
+    ]
+  },
+  "ms_granny_potterington": {
+    "sounds": [
+      "minescapersmusic:ms_granny_potterington"
+    ]
+  },
+  "mudskipper_calliope": {
+    "sounds": [
+      "minescapersmusic:mudskipper_calliope"
+    ]
+  },
+  "mudskipper_melody": {
+    "sounds": [
+      "minescapersmusic:mudskipper_melody"
+    ]
+  },
+  "mutant_medley": {
+    "sounds": [
+      "minescapersmusic:mutant_medley"
+    ]
+  },
+  "my_arms_journey": {
+    "sounds": [
+      "minescapersmusic:my_arms_journey"
+    ]
+  },
+  "my_domain": {
+    "sounds": [
+      "minescapersmusic:my_domain"
+    ]
+  },
+  "mystery_revealed": {
+    "sounds": [
+      "minescapersmusic:mystery_revealed"
+    ]
+  },
+  "narnodes_theme": {
+    "sounds": [
+      "minescapersmusic:narnodes_theme"
+    ]
+  },
+  "natural_selection": {
+    "sounds": [
+      "minescapersmusic:natural_selection"
+    ]
+  },
+  "natural": {
+    "sounds": [
+      "minescapersmusic:natural"
+    ]
+  },
+  "necrolord": {
+    "sounds": [
+      "minescapersmusic:necrolord"
+    ]
+  },
+  "neverland": {
+    "sounds": [
+      "minescapersmusic:neverland"
+    ]
+  },
+  "newbie_melody_boss": {
+    "sounds": [
+      "minescapersmusic:newbie_melody_boss"
+    ]
+  },
+  "newbie_melody_original": {
+    "sounds": [
+      "minescapersmusic:newbie_melody_original"
+    ]
+  },
+  "newbie_melody_underwater": {
+    "sounds": [
+      "minescapersmusic:newbie_melody_underwater"
+    ]
+  },
+  "newbie_melody": {
+    "sounds": [
+      "minescapersmusic:newbie_melody"
+    ]
+  },
+  "night_of_the_vampyre": {
+    "sounds": [
+      "minescapersmusic:night_of_the_vampyre"
+    ]
+  },
+  "nightgazer_khighorahk": {
+    "sounds": [
+      "minescapersmusic:nightgazer_khighorahk"
+    ]
+  },
+  "nightfall": {
+    "sounds": [
+      "minescapersmusic:nightfall"
+    ]
+  },
+  "nightmare_at_the_cradle": {
+    "sounds": [
+      "minescapersmusic:nightmare_at_the_cradle"
+    ]
+  },
+  "no_way_out": {
+    "sounds": [
+      "minescapersmusic:no_way_out"
+    ]
+  },
+  "nomad": {
+    "sounds": [
+      "minescapersmusic:nomad"
+    ]
+  },
+  "non_compos_mentis": {
+    "sounds": [
+      "minescapersmusic:non_compos_mentis"
+    ]
+  },
+  "norse_code": {
+    "sounds": [
+      "minescapersmusic:norse_code"
+    ]
+  },
+  "novtumberfest": {
+    "sounds": [
+      "minescapersmusic:novtumberfest"
+    ]
+  },
+  "null_and_void": {
+    "sounds": [
+      "minescapersmusic:null_and_void"
+    ]
+  },
+  "oasis": {
+    "sounds": [
+      "minescapersmusic:oasis"
+    ]
+  },
+  "occulo_i": {
+    "sounds": [
+      "minescapersmusic:occulo_i"
+    ]
+  },
+  "occulo_ii": {
+    "sounds": [
+      "minescapersmusic:occulo_ii"
+    ]
+  },
+  "occulo_iii": {
+    "sounds": [
+      "minescapersmusic:occulo_iii"
+    ]
+  },
+  "occulo_iv": {
+    "sounds": [
+      "minescapersmusic:occulo_iv"
+    ]
+  },
+  "occulo_ix": {
+    "sounds": [
+      "minescapersmusic:occulo_ix"
+    ]
+  },
+  "occulo_v": {
+    "sounds": [
+      "minescapersmusic:occulo_v"
+    ]
+  },
+  "occulo_vi": {
+    "sounds": [
+      "minescapersmusic:occulo_vi"
+    ]
+  },
+  "occulo_vii": {
+    "sounds": [
+      "minescapersmusic:occulo_vii"
+    ]
+  },
+  "occulo_viii": {
+    "sounds": [
+      "minescapersmusic:occulo_viii"
+    ]
+  },
+  "occulo_x": {
+    "sounds": [
+      "minescapersmusic:occulo_x"
+    ]
+  },
+  "ogre_the_top": {
+    "sounds": [
+      "minescapersmusic:ogre_the_top"
+    ]
+  },
+  "on_carpets_wings": {
+    "sounds": [
+      "minescapersmusic:on_carpets_wings"
+    ]
+  },
+  "on_distant_shores": {
+    "sounds": [
+      "minescapersmusic:on_distant_shores"
+    ]
+  },
+  "on_safer_ground": {
+    "sounds": [
+      "minescapersmusic:on_safer_ground"
+    ]
+  },
+  "on_the_high_ropes": {
+    "sounds": [
+      "minescapersmusic:on_the_high_ropes"
+    ]
+  },
+  "on_the_run": {
+    "sounds": [
+      "minescapersmusic:on_the_run"
+    ]
+  },
+  "on_the_up": {
+    "sounds": [
+      "minescapersmusic:on_the_up"
+    ]
+  },
+  "on_the_wing": {
+    "sounds": [
+      "minescapersmusic:on_the_wing"
+    ]
+  },
+  "on_the_wings_of_air": {
+    "sounds": [
+      "minescapersmusic:on_the_wings_of_air"
+    ]
+  },
+  "one_voice_instrumental": {
+    "sounds": [
+      "minescapersmusic:one_voice_instrumental"
+    ]
+  },
+  "one_voice": {
+    "sounds": [
+      "minescapersmusic:one_voice"
+    ]
+  },
+  "only_a_king": {
+    "sounds": [
+      "minescapersmusic:only_a_king"
+    ]
+  },
+  "oriental": {
+    "sounds": [
+      "minescapersmusic:oriental"
+    ]
+  },
+  "osmans_fable": {
+    "sounds": [
+      "minescapersmusic:osmans_fable"
+    ]
+  },
+  "out_of_control": {
+    "sounds": [
+      "minescapersmusic:out_of_control"
+    ]
+  },
+  "out_of_the_deep": {
+    "sounds": [
+      "minescapersmusic:out_of_the_deep"
+    ]
+  },
+  "over_to_nardah": {
+    "sounds": [
+      "minescapersmusic:over_to_nardah"
+    ]
+  },
+  "overpass": {
+    "sounds": [
+      "minescapersmusic:overpass"
+    ]
+  },
+  "overture": {
+    "sounds": [
+      "minescapersmusic:overture"
+    ]
+  },
+  "palace_above": {
+    "sounds": [
+      "minescapersmusic:palace_above"
+    ]
+  },
+  "palace": {
+    "sounds": [
+      "minescapersmusic:palace"
+    ]
+  },
+  "parade": {
+    "sounds": [
+      "minescapersmusic:parade"
+    ]
+  },
+  "path_of_peril": {
+    "sounds": [
+      "minescapersmusic:path_of_peril"
+    ]
+  },
+  "pathways": {
+    "sounds": [
+      "minescapersmusic:pathways"
+    ]
+  },
+  "penguin_possible": {
+    "sounds": [
+      "minescapersmusic:penguin_possible"
+    ]
+  },
+  "penguin_prison": {
+    "sounds": [
+      "minescapersmusic:penguin_prison"
+    ]
+  },
+  "pest_control": {
+    "sounds": [
+      "minescapersmusic:pest_control"
+    ]
+  },
+  "pharaohs_tomb": {
+    "sounds": [
+      "minescapersmusic:pharaohs_tomb"
+    ]
+  },
+  "pharaohs_trouble": {
+    "sounds": [
+      "minescapersmusic:pharaohs_trouble"
+    ]
+  },
+  "phasmatys": {
+    "sounds": [
+      "minescapersmusic:phasmatys"
+    ]
+  },
+  "pheasant_peasant": {
+    "sounds": [
+      "minescapersmusic:pheasant_peasant"
+    ]
+  },
+  "philipes_bane": {
+    "sounds": [
+      "minescapersmusic:philipes_bane"
+    ]
+  },
+  "pinball_wizard": {
+    "sounds": [
+      "minescapersmusic:pinball_wizard"
+    ]
+  },
+  "pirates_of_penance": {
+    "sounds": [
+      "minescapersmusic:pirates_of_penance"
+    ]
+  },
+  "pirates_of_peril": {
+    "sounds": [
+      "minescapersmusic:pirates_of_peril"
+    ]
+  },
+  "planefreezer_lakhrahnaz": {
+    "sounds": [
+      "minescapersmusic:planefreezer_lakhrahnaz"
+    ]
+  },
+  "poison_dreams": {
+    "sounds": [
+      "minescapersmusic:poison_dreams"
+    ]
+  },
+  "poles_apart": {
+    "sounds": [
+      "minescapersmusic:poles_apart"
+    ]
+  },
+  "precarious_void": {
+    "sounds": [
+      "minescapersmusic:precarious_void"
+    ]
+  },
+  "prime_time": {
+    "sounds": [
+      "minescapersmusic:prime_time"
+    ]
+  },
+  "principality": {
+    "sounds": [
+      "minescapersmusic:principality"
+    ]
+  },
+  "queen_black_dragon": {
+    "sounds": [
+      "minescapersmusic:queen_black_dragon"
+    ]
+  },
+  "quest": {
+    "sounds": [
+      "minescapersmusic:quest"
+    ]
+  },
+  "quicksand": {
+    "sounds": [
+      "minescapersmusic:quicksand"
+    ]
+  },
+  "rage_of_the_red_axe": {
+    "sounds": [
+      "minescapersmusic:rage_of_the_red_axe"
+    ]
+  },
+  "ram_upgrade": {
+    "sounds": [
+      "minescapersmusic:ram_upgrade"
+    ]
+  },
+  "rammernaut": {
+    "sounds": [
+      "minescapersmusic:rammernaut"
+    ]
+  },
+  "rat_a_tat_tat": {
+    "sounds": [
+      "minescapersmusic:rat_a_tat_tat"
+    ]
+  },
+  "rat_hunt": {
+    "sounds": [
+      "minescapersmusic:rat_hunt"
+    ]
+  },
+  "ready_for_battle": {
+    "sounds": [
+      "minescapersmusic:ready_for_battle"
+    ]
+  },
+  "reconstruct": {
+    "sounds": [
+      "minescapersmusic:reconstruct"
+    ]
+  },
+  "red_axe_retribution": {
+    "sounds": [
+      "minescapersmusic:red_axe_retribution"
+    ]
+  },
+  "regal_tremors": {
+    "sounds": [
+      "minescapersmusic:regal_tremors"
+    ]
+  },
+  "regal": {
+    "sounds": [
+      "minescapersmusic:regal"
+    ]
+  },
+  "reggae": {
+    "sounds": [
+      "minescapersmusic:reggae"
+    ]
+  },
+  "reggae2": {
+    "sounds": [
+      "minescapersmusic:reggae2"
+    ]
+  },
+  "rellekka": {
+    "sounds": [
+      "minescapersmusic:rellekka"
+    ]
+  },
+  "remnants": {
+    "sounds": [
+      "minescapersmusic:remnants"
+    ]
+  },
+  "requiem_rehearsal": {
+    "sounds": [
+      "minescapersmusic:requiem_rehearsal"
+    ]
+  },
+  "rest_for_the_weary": {
+    "sounds": [
+      "minescapersmusic:rest_for_the_weary"
+    ]
+  },
+  "return_of_lucien": {
+    "sounds": [
+      "minescapersmusic:return_of_lucien"
+    ]
+  },
+  "reunion": {
+    "sounds": [
+      "minescapersmusic:reunion"
+    ]
+  },
+  "right_of_conquest": {
+    "sounds": [
+      "minescapersmusic:right_of_conquest"
+    ]
+  },
+  "right_on_track": {
+    "sounds": [
+      "minescapersmusic:right_on_track"
+    ]
+  },
+  "righteousness": {
+    "sounds": [
+      "minescapersmusic:righteousness"
+    ]
+  },
+  "rising_damp": {
+    "sounds": [
+      "minescapersmusic:rising_damp"
+    ]
+  },
+  "riverside": {
+    "sounds": [
+      "minescapersmusic:riverside"
+    ]
+  },
+  "roc_and_roll": {
+    "sounds": [
+      "minescapersmusic:roc_and_roll"
+    ]
+  },
+  "rocky_rescue": {
+    "sounds": [
+      "minescapersmusic:rocky_rescue"
+    ]
+  },
+  "roll_the_bones": {
+    "sounds": [
+      "minescapersmusic:roll_the_bones"
+    ]
+  },
+  "romancing_the_crone": {
+    "sounds": [
+      "minescapersmusic:romancing_the_crone"
+    ]
+  },
+  "romper_chomper": {
+    "sounds": [
+      "minescapersmusic:romper_chomper"
+    ]
+  },
+  "rooftops": {
+    "sounds": [
+      "minescapersmusic:rooftops"
+    ]
+  },
+  "root_canal": {
+    "sounds": [
+      "minescapersmusic:root_canal"
+    ]
+  },
+  "roots_and_flutes": {
+    "sounds": [
+      "minescapersmusic:roots_and_flutes"
+    ]
+  },
+  "royal_rumble": {
+    "sounds": [
+      "minescapersmusic:royal_rumble"
+    ]
+  },
+  "royale": {
+    "sounds": [
+      "minescapersmusic:royale"
+    ]
+  },
+  "run_escape": {
+    "sounds": [
+      "minescapersmusic:run_escape"
+    ]
+  },
+  "rune_essence": {
+    "sounds": [
+      "minescapersmusic:rune_essence"
+    ]
+  },
+  "runearia": {
+    "sounds": [
+      "minescapersmusic:runearia"
+    ]
+  },
+  "runebreath": {
+    "sounds": [
+      "minescapersmusic:runebreath"
+    ]
+  },
+  "runecalm": {
+    "sounds": [
+      "minescapersmusic:runecalm"
+    ]
+  },
+  "runed_behemoth": {
+    "sounds": [
+      "minescapersmusic:runed_behemoth"
+    ]
+  },
+  "runefear": {
+    "sounds": [
+      "minescapersmusic:runefear"
+    ]
+  },
+  "runefire": {
+    "sounds": [
+      "minescapersmusic:runefire"
+    ]
+  },
+  "runeiverse": {
+    "sounds": [
+      "minescapersmusic:runeiverse"
+    ]
+  },
+  "runenergy": {
+    "sounds": [
+      "minescapersmusic:runenergy"
+    ]
+  },
+  "runescar": {
+    "sounds": [
+      "minescapersmusic:runescar"
+    ]
+  },
+  "runespan": {
+    "sounds": [
+      "minescapersmusic:runespan"
+    ]
+  },
+  "runesphere": {
+    "sounds": [
+      "minescapersmusic:runesphere"
+    ]
+  },
+  "runesque": {
+    "sounds": [
+      "minescapersmusic:runesque"
+    ]
+  },
+  "runetine": {
+    "sounds": [
+      "minescapersmusic:runetine"
+    ]
+  },
+  "runeward": {
+    "sounds": [
+      "minescapersmusic:runeward"
+    ]
+  },
+  "runewaste": {
+    "sounds": [
+      "minescapersmusic:runewaste"
+    ]
+  },
+  "runewrath": {
+    "sounds": [
+      "minescapersmusic:runewrath"
+    ]
+  },
+  "sad_meadow": {
+    "sounds": [
+      "minescapersmusic:sad_meadow"
+    ]
+  },
+  "safety_in_numbers": {
+    "sounds": [
+      "minescapersmusic:safety_in_numbers"
+    ]
+  },
+  "saga": {
+    "sounds": [
+      "minescapersmusic:saga"
+    ]
+  },
+  "sagittare": {
+    "sounds": [
+      "minescapersmusic:sagittare"
+    ]
+  },
+  "sailing_day": {
+    "sounds": [
+      "minescapersmusic:sailing_day"
+    ]
+  },
+  "sailors_heart_instrumental": {
+    "sounds": [
+      "minescapersmusic:sailors_heart_instrumental"
+    ]
+  },
+  "saltwater": {
+    "sounds": [
+      "minescapersmusic:saltwater"
+    ]
+  },
+  "sanctum": {
+    "sounds": [
+      "minescapersmusic:sanctum"
+    ]
+  },
+  "sands_of_time": {
+    "sounds": [
+      "minescapersmusic:sands_of_time"
+    ]
+  },
+  "saradomin_camp": {
+    "sounds": [
+      "minescapersmusic:saradomin_camp"
+    ]
+  },
+  "saradominists": {
+    "sounds": [
+      "minescapersmusic:saradominists"
+    ]
+  },
+  "sarcophagus": {
+    "sounds": [
+      "minescapersmusic:sarcophagus"
+    ]
+  },
+  "sarims_vermin": {
+    "sounds": [
+      "minescapersmusic:sarims_vermin"
+    ]
+  },
+  "scape_bold_heroic": {
+    "sounds": [
+      "minescapersmusic:scape_bold_heroic"
+    ]
+  },
+  "scape_bold": {
+    "sounds": [
+      "minescapersmusic:scape_bold"
+    ]
+  },
+  "scape_cave_underwater": {
+    "sounds": [
+      "minescapersmusic:scape_cave_underwater"
+    ]
+  },
+  "scape_cave": {
+    "sounds": [
+      "minescapersmusic:scape_cave"
+    ]
+  },
+  "scape_dark": {
+    "sounds": [
+      "minescapersmusic:scape_dark"
+    ]
+  },
+  "scape_hunter": {
+    "sounds": [
+      "minescapersmusic:scape_hunter"
+    ]
+  },
+  "scape_invention": {
+    "sounds": [
+      "minescapersmusic:scape_invention"
+    ]
+  },
+  "scape_main": {
+    "sounds": [
+      "minescapersmusic:scape_main"
+    ]
+  },
+  "scape_melancholy": {
+    "sounds": [
+      "minescapersmusic:scape_melancholy"
+    ]
+  },
+  "scape_original": {
+    "sounds": [
+      "minescapersmusic:scape_original"
+    ]
+  },
+  "scape_sad": {
+    "sounds": [
+      "minescapersmusic:scape_sad"
+    ]
+  },
+  "scape_santa": {
+    "sounds": [
+      "minescapersmusic:scape_santa"
+    ]
+  },
+  "scape_scared": {
+    "sounds": [
+      "minescapersmusic:scape_scared"
+    ]
+  },
+  "scape_slow": {
+    "sounds": [
+      "minescapersmusic:scape_slow"
+    ]
+  },
+  "scape_soft": {
+    "sounds": [
+      "minescapersmusic:scape_soft"
+    ]
+  },
+  "scape_summon": {
+    "sounds": [
+      "minescapersmusic:scape_summon"
+    ]
+  },
+  "scape_theme": {
+    "sounds": [
+      "minescapersmusic:scape_theme"
+    ]
+  },
+  "scape_wild": {
+    "sounds": [
+      "minescapersmusic:scape_wild"
+    ]
+  },
+  "scarab": {
+    "sounds": [
+      "minescapersmusic:scarab"
+    ]
+  },
+  "scarabaeoidea": {
+    "sounds": [
+      "minescapersmusic:scarabaeoidea"
+    ]
+  },
+  "scare_or_snare": {
+    "sounds": [
+      "minescapersmusic:scare_or_snare"
+    ]
+  },
+  "schools_out": {
+    "sounds": [
+      "minescapersmusic:schools_out"
+    ]
+  },
+  "sea_folk": {
+    "sounds": [
+      "minescapersmusic:sea_folk"
+    ]
+  },
+  "sea_hear": {
+    "sounds": [
+      "minescapersmusic:sea_hear"
+    ]
+  },
+  "sea_shanty_i": {
+    "sounds": [
+      "minescapersmusic:sea_shanty_i"
+    ]
+  },
+  "sea_shanty_ii": {
+    "sounds": [
+      "minescapersmusic:sea_shanty_ii"
+    ]
+  },
+  "sea_shanty_xmas": {
+    "sounds": [
+      "minescapersmusic:sea_shanty_xmas"
+    ]
+  },
+  "sea_you_late_oar": {
+    "sounds": [
+      "minescapersmusic:sea_you_late_oar"
+    ]
+  },
+  "seasonal_sports": {
+    "sounds": [
+      "minescapersmusic:seasonal_sports"
+    ]
+  },
+  "seasons_change": {
+    "sounds": [
+      "minescapersmusic:seasons_change"
+    ]
+  },
+  "second_harmony": {
+    "sounds": [
+      "minescapersmusic:second_harmony"
+    ]
+  },
+  "second_vision": {
+    "sounds": [
+      "minescapersmusic:second_vision"
+    ]
+  },
+  "secrets_interred": {
+    "sounds": [
+      "minescapersmusic:secrets_interred"
+    ]
+  },
+  "seed_of_hope": {
+    "sounds": [
+      "minescapersmusic:seed_of_hope"
+    ]
+  },
+  "seen_and_not_herb": {
+    "sounds": [
+      "minescapersmusic:seen_and_not_herb"
+    ]
+  },
+  "seiryus_deliverance": {
+    "sounds": [
+      "minescapersmusic:seiryus_deliverance"
+    ]
+  },
+  "serens_plea": {
+    "sounds": [
+      "minescapersmusic:serens_plea"
+    ]
+  },
+  "serenade": {
+    "sounds": [
+      "minescapersmusic:serenade"
+    ]
+  },
+  "serene": {
+    "sounds": [
+      "minescapersmusic:serene"
+    ]
+  },
+  "settlement": {
+    "sounds": [
+      "minescapersmusic:settlement"
+    ]
+  },
+  "shadowforger_ihlakhizan": {
+    "sounds": [
+      "minescapersmusic:shadowforger_ihlakhizan"
+    ]
+  },
+  "shadowland": {
+    "sounds": [
+      "minescapersmusic:shadowland"
+    ]
+  },
+  "shantay_pass": {
+    "sounds": [
+      "minescapersmusic:shantay_pass"
+    ]
+  },
+  "shanty_instrumental": {
+    "sounds": [
+      "minescapersmusic:shanty_instrumental"
+    ]
+  },
+  "shantysocial_behaviour": {
+    "sounds": [
+      "minescapersmusic:shantysocial_behaviour"
+    ]
+  },
+  "shaping_up": {
+    "sounds": [
+      "minescapersmusic:shaping_up"
+    ]
+  },
+  "shattered_worlds_i": {
+    "sounds": [
+      "minescapersmusic:shattered_worlds_i"
+    ]
+  },
+  "shattered_worlds_ii": {
+    "sounds": [
+      "minescapersmusic:shattered_worlds_ii"
+    ]
+  },
+  "shattered_worlds_iii": {
+    "sounds": [
+      "minescapersmusic:shattered_worlds_iii"
+    ]
+  },
+  "shattered_worlds_iv": {
+    "sounds": [
+      "minescapersmusic:shattered_worlds_iv"
+    ]
+  },
+  "shattered_worlds_v": {
+    "sounds": [
+      "minescapersmusic:shattered_worlds_v"
+    ]
+  },
+  "shattered_worlds_vi": {
+    "sounds": [
+      "minescapersmusic:shattered_worlds_vi"
+    ]
+  },
+  "shattered_worlds_vii": {
+    "sounds": [
+      "minescapersmusic:shattered_worlds_vii"
+    ]
+  },
+  "shifting_tombs": {
+    "sounds": [
+      "minescapersmusic:shifting_tombs"
+    ]
+  },
+  "shine": {
+    "sounds": [
+      "minescapersmusic:shine"
+    ]
+  },
+  "shining_spirit": {
+    "sounds": [
+      "minescapersmusic:shining_spirit"
+    ]
+  },
+  "shining": {
+    "sounds": [
+      "minescapersmusic:shining"
+    ]
+  },
+  "shipwrecked": {
+    "sounds": [
+      "minescapersmusic:shipwrecked"
+    ]
+  },
+  "showdown": {
+    "sounds": [
+      "minescapersmusic:showdown"
+    ]
+  },
+  "sigmunds_showdown": {
+    "sounds": [
+      "minescapersmusic:sigmunds_showdown"
+    ]
+  },
+  "silent_knight": {
+    "sounds": [
+      "minescapersmusic:silent_knight"
+    ]
+  },
+  "simian_scuffle": {
+    "sounds": [
+      "minescapersmusic:simian_scuffle"
+    ]
+  },
+  "skeletal_trio": {
+    "sounds": [
+      "minescapersmusic:skeletal_trio"
+    ]
+  },
+  "skirmish": {
+    "sounds": [
+      "minescapersmusic:skirmish"
+    ]
+  },
+  "skullery_jam": {
+    "sounds": [
+      "minescapersmusic:skullery_jam"
+    ]
+  },
+  "skybound_and_sundered": {
+    "sounds": [
+      "minescapersmusic:skybound_and_sundered"
+    ]
+  },
+  "slain_to_waste": {
+    "sounds": [
+      "minescapersmusic:slain_to_waste"
+    ]
+  },
+  "slice_of_silent_movie": {
+    "sounds": [
+      "minescapersmusic:slice_of_silent_movie"
+    ]
+  },
+  "slice_of_station": {
+    "sounds": [
+      "minescapersmusic:slice_of_station"
+    ]
+  },
+  "sliskes_cellmate": {
+    "sounds": [
+      "minescapersmusic:sliskes_cellmate"
+    ]
+  },
+  "sliskes_secrets": {
+    "sounds": [
+      "minescapersmusic:sliskes_secrets"
+    ]
+  },
+  "slither_and_thither": {
+    "sounds": [
+      "minescapersmusic:slither_and_thither"
+    ]
+  },
+  "slug_a_bug_ball": {
+    "sounds": [
+      "minescapersmusic:slug_a_bug_ball"
+    ]
+  },
+  "slug_poison": {
+    "sounds": [
+      "minescapersmusic:slug_poison"
+    ]
+  },
+  "smorgasbord": {
+    "sounds": [
+      "minescapersmusic:smorgasbord"
+    ]
+  },
+  "snack_attack": {
+    "sounds": [
+      "minescapersmusic:snack_attack"
+    ]
+  },
+  "snow_patrol": {
+    "sounds": [
+      "minescapersmusic:snow_patrol"
+    ]
+  },
+  "snowverload": {
+    "sounds": [
+      "minescapersmusic:snowverload"
+    ]
+  },
+  "soiled": {
+    "sounds": [
+      "minescapersmusic:soiled"
+    ]
+  },
+  "sojourn": {
+    "sounds": [
+      "minescapersmusic:sojourn"
+    ]
+  },
+  "something_fishy": {
+    "sounds": [
+      "minescapersmusic:something_fishy"
+    ]
+  },
+  "something_is_wrong": {
+    "sounds": [
+      "minescapersmusic:something_is_wrong"
+    ]
+  },
+  "song_from_the_depths": {
+    "sounds": [
+      "minescapersmusic:song_from_the_depths"
+    ]
+  },
+  "song_of_the_furies": {
+    "sounds": [
+      "minescapersmusic:song_of_the_furies"
+    ]
+  },
+  "soul_wars": {
+    "sounds": [
+      "minescapersmusic:soul_wars"
+    ]
+  },
+  "soulful": {
+    "sounds": [
+      "minescapersmusic:soulful"
+    ]
+  },
+  "soundscape": {
+    "sounds": [
+      "minescapersmusic:soundscape"
+    ]
+  },
+  "spa_bizarre": {
+    "sounds": [
+      "minescapersmusic:spa_bizarre"
+    ]
+  },
+  "sphinx": {
+    "sounds": [
+      "minescapersmusic:sphinx"
+    ]
+  },
+  "spirit_of_aminishi": {
+    "sounds": [
+      "minescapersmusic:spirit_of_aminishi"
+    ]
+  },
+  "spirit_of_chantli": {
+    "sounds": [
+      "minescapersmusic:spirit_of_chantli"
+    ]
+  },
+  "spirit": {
+    "sounds": [
+      "minescapersmusic:spirit"
+    ]
+  },
+  "spirits_of_elid": {
+    "sounds": [
+      "minescapersmusic:spirits_of_elid"
+    ]
+  },
+  "splendour": {
+    "sounds": [
+      "minescapersmusic:splendour"
+    ]
+  },
+  "spoils_of_war": {
+    "sounds": [
+      "minescapersmusic:spoils_of_war"
+    ]
+  },
+  "spooky_jungle": {
+    "sounds": [
+      "minescapersmusic:spooky_jungle"
+    ]
+  },
+  "spooky": {
+    "sounds": [
+      "minescapersmusic:spooky"
+    ]
+  },
+  "spooky2": {
+    "sounds": [
+      "minescapersmusic:spooky2"
+    ]
+  },
+  "spring_song": {
+    "sounds": [
+      "minescapersmusic:spring_song"
+    ]
+  },
+  "stagnant": {
+    "sounds": [
+      "minescapersmusic:stagnant"
+    ]
+  },
+  "standoff": {
+    "sounds": [
+      "minescapersmusic:standoff"
+    ]
+  },
+  "starlight": {
+    "sounds": [
+      "minescapersmusic:starlight"
+    ]
+  },
+  "start": {
+    "sounds": [
+      "minescapersmusic:start"
+    ]
+  },
+  "steady": {
+    "sounds": [
+      "minescapersmusic:steady"
+    ]
+  },
+  "stealing_creation": {
+    "sounds": [
+      "minescapersmusic:stealing_creation"
+    ]
+  },
+  "stick_your_ale_in": {
+    "sounds": [
+      "minescapersmusic:stick_your_ale_in"
+    ]
+  },
+  "stick_your_oar_in": {
+    "sounds": [
+      "minescapersmusic:stick_your_oar_in"
+    ]
+  },
+  "sticks_and_stones": {
+    "sounds": [
+      "minescapersmusic:sticks_and_stones"
+    ]
+  },
+  "stillness": {
+    "sounds": [
+      "minescapersmusic:stillness"
+    ]
+  },
+  "stillwater": {
+    "sounds": [
+      "minescapersmusic:stillwater"
+    ]
+  },
+  "stomp": {
+    "sounds": [
+      "minescapersmusic:stomp"
+    ]
+  },
+  "storeroom_shuffle": {
+    "sounds": [
+      "minescapersmusic:storeroom_shuffle"
+    ]
+  },
+  "storm_brew": {
+    "sounds": [
+      "minescapersmusic:storm_brew"
+    ]
+  },
+  "stranded": {
+    "sounds": [
+      "minescapersmusic:stranded"
+    ]
+  },
+  "strange_place": {
+    "sounds": [
+      "minescapersmusic:strange_place"
+    ]
+  },
+  "stratosphere": {
+    "sounds": [
+      "minescapersmusic:stratosphere"
+    ]
+  },
+  "strength_of_saradomin": {
+    "sounds": [
+      "minescapersmusic:strength_of_saradomin"
+    ]
+  },
+  "sub_way": {
+    "sounds": [
+      "minescapersmusic:sub_way"
+    ]
+  },
+  "subdued_by_the_sand": {
+    "sounds": [
+      "minescapersmusic:subdued_by_the_sand"
+    ]
+  },
+  "subterranea": {
+    "sounds": [
+      "minescapersmusic:subterranea"
+    ]
+  },
+  "summer_lovin": {
+    "sounds": [
+      "minescapersmusic:summer_lovin"
+    ]
+  },
+  "sunburn": {
+    "sounds": [
+      "minescapersmusic:sunburn"
+    ]
+  },
+  "super_furry_animal": {
+    "sounds": [
+      "minescapersmusic:super_furry_animal"
+    ]
+  },
+  "superstition": {
+    "sounds": [
+      "minescapersmusic:superstition"
+    ]
+  },
+  "supreme_champions": {
+    "sounds": [
+      "minescapersmusic:supreme_champions"
+    ]
+  },
+  "suroks_theme": {
+    "sounds": [
+      "minescapersmusic:suroks_theme"
+    ]
+  },
+  "suspicious": {
+    "sounds": [
+      "minescapersmusic:suspicious"
+    ]
+  },
+  "tardis": {
+    "sounds": [
+      "minescapersmusic:tardis"
+    ]
+  },
+  "tables_are_turned": {
+    "sounds": [
+      "minescapersmusic:tables_are_turned"
+    ]
+  },
+  "tale_of_keldagrim": {
+    "sounds": [
+      "minescapersmusic:tale_of_keldagrim"
+    ]
+  },
+  "tale_of_waiko_instrumental": {
+    "sounds": [
+      "minescapersmusic:tale_of_waiko_instrumental"
+    ]
+  },
+  "tale_of_waiko": {
+    "sounds": [
+      "minescapersmusic:tale_of_waiko"
+    ]
+  },
+  "talking_forest": {
+    "sounds": [
+      "minescapersmusic:talking_forest"
+    ]
+  },
+  "target": {
+    "sounds": [
+      "minescapersmusic:target"
+    ]
+  },
+  "taverley_adventure": {
+    "sounds": [
+      "minescapersmusic:taverley_adventure"
+    ]
+  },
+  "taverley_ambience": {
+    "sounds": [
+      "minescapersmusic:taverley_ambience"
+    ]
+  },
+  "taverley_dreams": {
+    "sounds": [
+      "minescapersmusic:taverley_dreams"
+    ]
+  },
+  "taverley_enchantment": {
+    "sounds": [
+      "minescapersmusic:taverley_enchantment"
+    ]
+  },
+  "taverley_folk": {
+    "sounds": [
+      "minescapersmusic:taverley_folk"
+    ]
+  },
+  "taverley_frolics": {
+    "sounds": [
+      "minescapersmusic:taverley_frolics"
+    ]
+  },
+  "taverley_lament": {
+    "sounds": [
+      "minescapersmusic:taverley_lament"
+    ]
+  },
+  "tears_of_guthix": {
+    "sounds": [
+      "minescapersmusic:tears_of_guthix"
+    ]
+  },
+  "technology": {
+    "sounds": [
+      "minescapersmusic:technology"
+    ]
+  },
+  "temple_desecrated": {
+    "sounds": [
+      "minescapersmusic:temple_desecrated"
+    ]
+  },
+  "temple_of_guthix_i": {
+    "sounds": [
+      "minescapersmusic:temple_of_guthix_i"
+    ]
+  },
+  "temple_of_guthix_ii": {
+    "sounds": [
+      "minescapersmusic:temple_of_guthix_ii"
+    ]
+  },
+  "temple_of_light": {
+    "sounds": [
+      "minescapersmusic:temple_of_light"
+    ]
+  },
+  "temple_of_tribes": {
+    "sounds": [
+      "minescapersmusic:temple_of_tribes"
+    ]
+  },
+  "temple": {
+    "sounds": [
+      "minescapersmusic:temple"
+    ]
+  },
+  "temporal_threads": {
+    "sounds": [
+      "minescapersmusic:temporal_threads"
+    ]
+  },
+  "terrorbird_tussle": {
+    "sounds": [
+      "minescapersmusic:terrorbird_tussle"
+    ]
+  },
+  "the_abbey": {
+    "sounds": [
+      "minescapersmusic:the_abbey"
+    ]
+  },
+  "the_acolytes_accord": {
+    "sounds": [
+      "minescapersmusic:the_acolytes_accord"
+    ]
+  },
+  "the_adventurer": {
+    "sounds": [
+      "minescapersmusic:the_adventurer"
+    ]
+  },
+  "the_art_of_hocuspocus": {
+    "sounds": [
+      "minescapersmusic:the_art_of_hocuspocus"
+    ]
+  },
+  "the_azure_caverns": {
+    "sounds": [
+      "minescapersmusic:the_azure_caverns"
+    ]
+  },
+  "the_best_is_yeti_to_come": {
+    "sounds": [
+      "minescapersmusic:the_best_is_yeti_to_come"
+    ]
+  },
+  "the_brass_is_always_greener": {
+    "sounds": [
+      "minescapersmusic:the_brass_is_always_greener"
+    ]
+  },
+  "the_cave": {
+    "sounds": [
+      "minescapersmusic:the_cave"
+    ]
+  },
+  "the_cellar_dwellers": {
+    "sounds": [
+      "minescapersmusic:the_cellar_dwellers"
+    ]
+  },
+  "the_charos_enigma": {
+    "sounds": [
+      "minescapersmusic:the_charos_enigma"
+    ]
+  },
+  "the_chosen_commander": {
+    "sounds": [
+      "minescapersmusic:the_chosen_commander"
+    ]
+  },
+  "the_chosen": {
+    "sounds": [
+      "minescapersmusic:the_chosen"
+    ]
+  },
+  "the_chozan_one": {
+    "sounds": [
+      "minescapersmusic:the_chozan_one"
+    ]
+  },
+  "the_columbarium": {
+    "sounds": [
+      "minescapersmusic:the_columbarium"
+    ]
+  },
+  "the_dance_of_the_snow_queen": {
+    "sounds": [
+      "minescapersmusic:the_dance_of_the_snow_queen"
+    ]
+  },
+  "the_dark_lord": {
+    "sounds": [
+      "minescapersmusic:the_dark_lord"
+    ]
+  },
+  "the_depths": {
+    "sounds": [
+      "minescapersmusic:the_depths"
+    ]
+  },
+  "the_desert": {
+    "sounds": [
+      "minescapersmusic:the_desert"
+    ]
+  },
+  "the_desolate_isle": {
+    "sounds": [
+      "minescapersmusic:the_desolate_isle"
+    ]
+  },
+  "the_duke": {
+    "sounds": [
+      "minescapersmusic:the_duke"
+    ]
+  },
+  "the_elder_halls": {
+    "sounds": [
+      "minescapersmusic:the_elder_halls"
+    ]
+  },
+  "the_enchanter": {
+    "sounds": [
+      "minescapersmusic:the_enchanter"
+    ]
+  },
+  "the_evil_within": {
+    "sounds": [
+      "minescapersmusic:the_evil_within"
+    ]
+  },
+  "the_factory_floor": {
+    "sounds": [
+      "minescapersmusic:the_factory_floor"
+    ]
+  },
+  "the_fallen_hero": {
+    "sounds": [
+      "minescapersmusic:the_fallen_hero"
+    ]
+  },
+  "the_far_side": {
+    "sounds": [
+      "minescapersmusic:the_far_side"
+    ]
+  },
+  "the_fire_burns": {
+    "sounds": [
+      "minescapersmusic:the_fire_burns"
+    ]
+  },
+  "the_firemakers_theme": {
+    "sounds": [
+      "minescapersmusic:the_firemakers_theme"
+    ]
+  },
+  "the_forgotten_city_orthen": {
+    "sounds": [
+      "minescapersmusic:the_forgotten_city_orthen"
+    ]
+  },
+  "the_galleon": {
+    "sounds": [
+      "minescapersmusic:the_galleon"
+    ]
+  },
+  "the_gathering": {
+    "sounds": [
+      "minescapersmusic:the_gathering"
+    ]
+  },
+  "the_genie": {
+    "sounds": [
+      "minescapersmusic:the_genie"
+    ]
+  },
+  "the_golem": {
+    "sounds": [
+      "minescapersmusic:the_golem"
+    ]
+  },
+  "the_gulf_between_us": {
+    "sounds": [
+      "minescapersmusic:the_gulf_between_us"
+    ]
+  },
+  "the_hall_of_memories": {
+    "sounds": [
+      "minescapersmusic:the_hall_of_memories"
+    ]
+  },
+  "the_harmony_of_the_runes": {
+    "sounds": [
+      "minescapersmusic:the_harmony_of_the_runes"
+    ]
+  },
+  "the_heist_ii": {
+    "sounds": [
+      "minescapersmusic:the_heist_ii"
+    ]
+  },
+  "the_heist": {
+    "sounds": [
+      "minescapersmusic:the_heist"
+    ]
+  },
+  "the_horn_of_chill": {
+    "sounds": [
+      "minescapersmusic:the_horn_of_chill"
+    ]
+  },
+  "the_infernal_source": {
+    "sounds": [
+      "minescapersmusic:the_infernal_source"
+    ]
+  },
+  "the_last_pirate": {
+    "sounds": [
+      "minescapersmusic:the_last_pirate"
+    ]
+  },
+  "the_last_shanty": {
+    "sounds": [
+      "minescapersmusic:the_last_shanty"
+    ]
+  },
+  "the_longramble_scramble": {
+    "sounds": [
+      "minescapersmusic:the_longramble_scramble"
+    ]
+  },
+  "the_lord_of_vampyrium": {
+    "sounds": [
+      "minescapersmusic:the_lord_of_vampyrium"
+    ]
+  },
+  "the_lost_grove": {
+    "sounds": [
+      "minescapersmusic:the_lost_grove"
+    ]
+  },
+  "the_lost_melody": {
+    "sounds": [
+      "minescapersmusic:the_lost_melody"
+    ]
+  },
+  "the_lost_tribe": {
+    "sounds": [
+      "minescapersmusic:the_lost_tribe"
+    ]
+  },
+  "the_lumbridge_reels": {
+    "sounds": [
+      "minescapersmusic:the_lumbridge_reels"
+    ]
+  },
+  "the_lunar_isle": {
+    "sounds": [
+      "minescapersmusic:the_lunar_isle"
+    ]
+  },
+  "the_mad_mole": {
+    "sounds": [
+      "minescapersmusic:the_mad_mole"
+    ]
+  },
+  "the_magisters_lesson": {
+    "sounds": [
+      "minescapersmusic:the_magisters_lesson"
+    ]
+  },
+  "the_menaphos_folk_singer": {
+    "sounds": [
+      "minescapersmusic:the_menaphos_folk_singer"
+    ]
+  },
+  "the_mentor": {
+    "sounds": [
+      "minescapersmusic:the_mentor"
+    ]
+  },
+  "the_mollusc_menace": {
+    "sounds": [
+      "minescapersmusic:the_mollusc_menace"
+    ]
+  },
+  "the_monsters_below": {
+    "sounds": [
+      "minescapersmusic:the_monsters_below"
+    ]
+  },
+  "the_muspahs_tomb": {
+    "sounds": [
+      "minescapersmusic:the_muspahs_tomb"
+    ]
+  },
+  "the_navigator": {
+    "sounds": [
+      "minescapersmusic:the_navigator"
+    ]
+  },
+  "the_needle": {
+    "sounds": [
+      "minescapersmusic:the_needle"
+    ]
+  },
+  "the_nightmare_continues": {
+    "sounds": [
+      "minescapersmusic:the_nightmare_continues"
+    ]
+  },
+  "the_noble_rodent": {
+    "sounds": [
+      "minescapersmusic:the_noble_rodent"
+    ]
+  },
+  "the_other_side": {
+    "sounds": [
+      "minescapersmusic:the_other_side"
+    ]
+  },
+  "the_pact": {
+    "sounds": [
+      "minescapersmusic:the_pact"
+    ]
+  },
+  "the_pengmersible": {
+    "sounds": [
+      "minescapersmusic:the_pengmersible"
+    ]
+  },
+  "the_phoenix": {
+    "sounds": [
+      "minescapersmusic:the_phoenix"
+    ]
+  },
+  "the_plundered_tomb": {
+    "sounds": [
+      "minescapersmusic:the_plundered_tomb"
+    ]
+  },
+  "the_power_of_tears": {
+    "sounds": [
+      "minescapersmusic:the_power_of_tears"
+    ]
+  },
+  "the_price_is_wight": {
+    "sounds": [
+      "minescapersmusic:the_price_is_wight"
+    ]
+  },
+  "the_quiz_master": {
+    "sounds": [
+      "minescapersmusic:the_quiz_master"
+    ]
+  },
+  "the_reapers_house": {
+    "sounds": [
+      "minescapersmusic:the_reapers_house"
+    ]
+  },
+  "the_records_chamber": {
+    "sounds": [
+      "minescapersmusic:the_records_chamber"
+    ]
+  },
+  "the_rogues_den": {
+    "sounds": [
+      "minescapersmusic:the_rogues_den"
+    ]
+  },
+  "the_route_of_all_evil": {
+    "sounds": [
+      "minescapersmusic:the_route_of_all_evil"
+    ]
+  },
+  "the_route_of_the_problem": {
+    "sounds": [
+      "minescapersmusic:the_route_of_the_problem"
+    ]
+  },
+  "the_ruins_of_camdozaal": {
+    "sounds": [
+      "minescapersmusic:the_ruins_of_camdozaal"
+    ]
+  },
+  "the_ruler_and_the_ruled": {
+    "sounds": [
+      "minescapersmusic:the_ruler_and_the_ruled"
+    ]
+  },
+  "the_sacred_steward": {
+    "sounds": [
+      "minescapersmusic:the_sacred_steward"
+    ]
+  },
+  "the_sailors_heart": {
+    "sounds": [
+      "minescapersmusic:the_sailors_heart"
+    ]
+  },
+  "the_seat_of_power": {
+    "sounds": [
+      "minescapersmusic:the_seat_of_power"
+    ]
+  },
+  "the_shackled_aberration": {
+    "sounds": [
+      "minescapersmusic:the_shackled_aberration"
+    ]
+  },
+  "the_shackled_serpent": {
+    "sounds": [
+      "minescapersmusic:the_shackled_serpent"
+    ]
+  },
+  "the_shadow": {
+    "sounds": [
+      "minescapersmusic:the_shadow"
+    ]
+  },
+  "the_sight_of_spring": {
+    "sounds": [
+      "minescapersmusic:the_sight_of_spring"
+    ]
+  },
+  "the_slayer": {
+    "sounds": [
+      "minescapersmusic:the_slayer"
+    ]
+  },
+  "the_sound_of_guthix": {
+    "sounds": [
+      "minescapersmusic:the_sound_of_guthix"
+    ]
+  },
+  "the_stalker": {
+    "sounds": [
+      "minescapersmusic:the_stalker"
+    ]
+  },
+  "the_star_lodge": {
+    "sounds": [
+      "minescapersmusic:the_star_lodge"
+    ]
+  },
+  "the_tale_of_amascut": {
+    "sounds": [
+      "minescapersmusic:the_tale_of_amascut"
+    ]
+  },
+  "the_tale_of_crondis": {
+    "sounds": [
+      "minescapersmusic:the_tale_of_crondis"
+    ]
+  },
+  "the_tale_of_het": {
+    "sounds": [
+      "minescapersmusic:the_tale_of_het"
+    ]
+  },
+  "the_tale_of_jack_of_spades": {
+    "sounds": [
+      "minescapersmusic:the_tale_of_jack_of_spades"
+    ]
+  },
+  "the_task_at_hand": {
+    "sounds": [
+      "minescapersmusic:the_task_at_hand"
+    ]
+  },
+  "the_terrible_caverns": {
+    "sounds": [
+      "minescapersmusic:the_terrible_caverns"
+    ]
+  },
+  "the_terrible_tower": {
+    "sounds": [
+      "minescapersmusic:the_terrible_tower"
+    ]
+  },
+  "the_terrible_tunnels": {
+    "sounds": [
+      "minescapersmusic:the_terrible_tunnels"
+    ]
+  },
+  "the_throne_of_bandos": {
+    "sounds": [
+      "minescapersmusic:the_throne_of_bandos"
+    ]
+  },
+  "the_tower": {
+    "sounds": [
+      "minescapersmusic:the_tower"
+    ]
+  },
+  "the_town": {
+    "sounds": [
+      "minescapersmusic:the_town"
+    ]
+  },
+  "the_trade_parade": {
+    "sounds": [
+      "minescapersmusic:the_trade_parade"
+    ]
+  },
+  "the_twilight_twain": {
+    "sounds": [
+      "minescapersmusic:the_twilight_twain"
+    ]
+  },
+  "the_vacant_abyss": {
+    "sounds": [
+      "minescapersmusic:the_vacant_abyss"
+    ]
+  },
+  "the_void_stares_back": {
+    "sounds": [
+      "minescapersmusic:the_void_stares_back"
+    ]
+  },
+  "the_waiting_game": {
+    "sounds": [
+      "minescapersmusic:the_waiting_game"
+    ]
+  },
+  "the_wrong_path": {
+    "sounds": [
+      "minescapersmusic:the_wrong_path"
+    ]
+  },
+  "theme": {
+    "sounds": [
+      "minescapersmusic:theme"
+    ]
+  },
+  "there_has_been_a_murder": {
+    "sounds": [
+      "minescapersmusic:there_has_been_a_murder"
+    ]
+  },
+  "these_stones": {
+    "sounds": [
+      "minescapersmusic:these_stones"
+    ]
+  },
+  "thieves_guild_i": {
+    "sounds": [
+      "minescapersmusic:thieves_guild_i"
+    ]
+  },
+  "thieves_guild_ii": {
+    "sounds": [
+      "minescapersmusic:thieves_guild_ii"
+    ]
+  },
+  "thieves_guild_iii": {
+    "sounds": [
+      "minescapersmusic:thieves_guild_iii"
+    ]
+  },
+  "thieves_guild_iv": {
+    "sounds": [
+      "minescapersmusic:thieves_guild_iv"
+    ]
+  },
+  "thoks_big_adventure": {
+    "sounds": [
+      "minescapersmusic:thoks_big_adventure"
+    ]
+  },
+  "three_brothers": {
+    "sounds": [
+      "minescapersmusic:three_brothers"
+    ]
+  },
+  "three_kings": {
+    "sounds": [
+      "minescapersmusic:three_kings"
+    ]
+  },
+  "three_of_a_kind": {
+    "sounds": [
+      "minescapersmusic:three_of_a_kind"
+    ]
+  },
+  "throne_of_the_demon": {
+    "sounds": [
+      "minescapersmusic:throne_of_the_demon"
+    ]
+  },
+  "time_is_the_key": {
+    "sounds": [
+      "minescapersmusic:time_is_the_key"
+    ]
+  },
+  "time_out": {
+    "sounds": [
+      "minescapersmusic:time_out"
+    ]
+  },
+  "time_to_mine": {
+    "sounds": [
+      "minescapersmusic:time_to_mine"
+    ]
+  },
+  "time_waits_for_snowman": {
+    "sounds": [
+      "minescapersmusic:time_waits_for_snowman"
+    ]
+  },
+  "tiny_adventure": {
+    "sounds": [
+      "minescapersmusic:tiny_adventure"
+    ]
+  },
+  "tiptoe": {
+    "sounds": [
+      "minescapersmusic:tiptoe"
+    ]
+  },
+  "title_fight": {
+    "sounds": [
+      "minescapersmusic:title_fight"
+    ]
+  },
+  "tokash_the_bloodchiller": {
+    "sounds": [
+      "minescapersmusic:tokash_the_bloodchiller"
+    ]
+  },
+  "toktzketekmack": {
+    "sounds": [
+      "minescapersmusic:toktzketekmack"
+    ]
+  },
+  "tomb_raider": {
+    "sounds": [
+      "minescapersmusic:tomb_raider"
+    ]
+  },
+  "tomorrow": {
+    "sounds": [
+      "minescapersmusic:tomorrow"
+    ]
+  },
+  "too_many_cooks": {
+    "sounds": [
+      "minescapersmusic:too_many_cooks"
+    ]
+  },
+  "torqueo_i": {
+    "sounds": [
+      "minescapersmusic:torqueo_i"
+    ]
+  },
+  "torqueo_ii": {
+    "sounds": [
+      "minescapersmusic:torqueo_ii"
+    ]
+  },
+  "torqueo_iii": {
+    "sounds": [
+      "minescapersmusic:torqueo_iii"
+    ]
+  },
+  "torqueo_iv": {
+    "sounds": [
+      "minescapersmusic:torqueo_iv"
+    ]
+  },
+  "torqueo_ix": {
+    "sounds": [
+      "minescapersmusic:torqueo_ix"
+    ]
+  },
+  "torqueo_v": {
+    "sounds": [
+      "minescapersmusic:torqueo_v"
+    ]
+  },
+  "torqueo_vi": {
+    "sounds": [
+      "minescapersmusic:torqueo_vi"
+    ]
+  },
+  "torqueo_vii": {
+    "sounds": [
+      "minescapersmusic:torqueo_vii"
+    ]
+  },
+  "torqueo_viii": {
+    "sounds": [
+      "minescapersmusic:torqueo_viii"
+    ]
+  },
+  "torqueo_x": {
+    "sounds": [
+      "minescapersmusic:torqueo_x"
+    ]
+  },
+  "tortle_power": {
+    "sounds": [
+      "minescapersmusic:tortle_power"
+    ]
+  },
+  "tournament": {
+    "sounds": [
+      "minescapersmusic:tournament"
+    ]
+  },
+  "travellers_tale": {
+    "sounds": [
+      "minescapersmusic:travellers_tale"
+    ]
+  },
+  "trawler_minor": {
+    "sounds": [
+      "minescapersmusic:trawler_minor"
+    ]
+  },
+  "trawler": {
+    "sounds": [
+      "minescapersmusic:trawler"
+    ]
+  },
+  "tree_spirits": {
+    "sounds": [
+      "minescapersmusic:tree_spirits"
+    ]
+  },
+  "trees_arent_your_friends": {
+    "sounds": [
+      "minescapersmusic:trees_arent_your_friends"
+    ]
+  },
+  "tremble": {
+    "sounds": [
+      "minescapersmusic:tremble"
+    ]
+  },
+  "tribal_background": {
+    "sounds": [
+      "minescapersmusic:tribal_background"
+    ]
+  },
+  "tribal": {
+    "sounds": [
+      "minescapersmusic:tribal"
+    ]
+  },
+  "tribal2": {
+    "sounds": [
+      "minescapersmusic:tribal2"
+    ]
+  },
+  "trick_or_treat": {
+    "sounds": [
+      "minescapersmusic:trick_or_treat"
+    ]
+  },
+  "trinity": {
+    "sounds": [
+      "minescapersmusic:trinity"
+    ]
+  },
+  "troll_invasion": {
+    "sounds": [
+      "minescapersmusic:troll_invasion"
+    ]
+  },
+  "tropical_breeze": {
+    "sounds": [
+      "minescapersmusic:tropical_breeze"
+    ]
+  },
+  "tropical_sneeze": {
+    "sounds": [
+      "minescapersmusic:tropical_sneeze"
+    ]
+  },
+  "troubadour_dance": {
+    "sounds": [
+      "minescapersmusic:troubadour_dance"
+    ]
+  },
+  "trouble_brewing": {
+    "sounds": [
+      "minescapersmusic:trouble_brewing"
+    ]
+  },
+  "troubled_spirit": {
+    "sounds": [
+      "minescapersmusic:troubled_spirit"
+    ]
+  },
+  "troubled": {
+    "sounds": [
+      "minescapersmusic:troubled"
+    ]
+  },
+  "true_or_false": {
+    "sounds": [
+      "minescapersmusic:true_or_false"
+    ]
+  },
+  "tuai_leit": {
+    "sounds": [
+      "minescapersmusic:tuai_leit"
+    ]
+  },
+  "tune_from_the_dune": {
+    "sounds": [
+      "minescapersmusic:tune_from_the_dune"
+    ]
+  },
+  "tuska": {
+    "sounds": [
+      "minescapersmusic:tuska"
+    ]
+  },
+  "twilight": {
+    "sounds": [
+      "minescapersmusic:twilight"
+    ]
+  },
+  "tzhaar_city_i": {
+    "sounds": [
+      "minescapersmusic:tzhaar_city_i"
+    ]
+  },
+  "tzhaar_city_ii": {
+    "sounds": [
+      "minescapersmusic:tzhaar_city_ii"
+    ]
+  },
+  "tzhaar_city_iii": {
+    "sounds": [
+      "minescapersmusic:tzhaar_city_iii"
+    ]
+  },
+  "tzhaar_city_iv": {
+    "sounds": [
+      "minescapersmusic:tzhaar_city_iv"
+    ]
+  },
+  "tzhaar_city_v": {
+    "sounds": [
+      "minescapersmusic:tzhaar_city_v"
+    ]
+  },
+  "tzhaar_supremacy_i": {
+    "sounds": [
+      "minescapersmusic:tzhaar_supremacy_i"
+    ]
+  },
+  "tzhaar_supremacy_ii": {
+    "sounds": [
+      "minescapersmusic:tzhaar_supremacy_ii"
+    ]
+  },
+  "tzhaar_supremacy_iii": {
+    "sounds": [
+      "minescapersmusic:tzhaar_supremacy_iii"
+    ]
+  },
+  "tzhaar": {
+    "sounds": [
+      "minescapersmusic:tzhaar"
+    ]
+  },
+  "unavoidable_conflict": {
+    "sounds": [
+      "minescapersmusic:unavoidable_conflict"
+    ]
+  },
+  "undead_army_ii": {
+    "sounds": [
+      "minescapersmusic:undead_army_ii"
+    ]
+  },
+  "undead_army": {
+    "sounds": [
+      "minescapersmusic:undead_army"
+    ]
+  },
+  "undead_dungeon": {
+    "sounds": [
+      "minescapersmusic:undead_dungeon"
+    ]
+  },
+  "under_the_sand": {
+    "sounds": [
+      "minescapersmusic:under_the_sand"
+    ]
+  },
+  "underbelly": {
+    "sounds": [
+      "minescapersmusic:underbelly"
+    ]
+  },
+  "undercity": {
+    "sounds": [
+      "minescapersmusic:undercity"
+    ]
+  },
+  "undercurrent": {
+    "sounds": [
+      "minescapersmusic:undercurrent"
+    ]
+  },
+  "underground_pass": {
+    "sounds": [
+      "minescapersmusic:underground_pass"
+    ]
+  },
+  "underground": {
+    "sounds": [
+      "minescapersmusic:underground"
+    ]
+  },
+  "understanding": {
+    "sounds": [
+      "minescapersmusic:understanding"
+    ]
+  },
+  "undying": {
+    "sounds": [
+      "minescapersmusic:undying"
+    ]
+  },
+  "unholy_cursebearer": {
+    "sounds": [
+      "minescapersmusic:unholy_cursebearer"
+    ]
+  },
+  "unknown_land": {
+    "sounds": [
+      "minescapersmusic:unknown_land"
+    ]
+  },
+  "unravelling_the_past": {
+    "sounds": [
+      "minescapersmusic:unravelling_the_past"
+    ]
+  },
+  "untamed_horizons": {
+    "sounds": [
+      "minescapersmusic:untamed_horizons"
+    ]
+  },
+  "untouchable": {
+    "sounds": [
+      "minescapersmusic:untouchable"
+    ]
+  },
+  "upcoming": {
+    "sounds": [
+      "minescapersmusic:upcoming"
+    ]
+  },
+  "upir_likhyi": {
+    "sounds": [
+      "minescapersmusic:upir_likhyi"
+    ]
+  },
+  "valerios_song": {
+    "sounds": [
+      "minescapersmusic:valerios_song"
+    ]
+  },
+  "vanescula_fight": {
+    "sounds": [
+      "minescapersmusic:vanescula_fight"
+    ]
+  },
+  "venomous": {
+    "sounds": [
+      "minescapersmusic:venomous"
+    ]
+  },
+  "venture": {
+    "sounds": [
+      "minescapersmusic:venture"
+    ]
+  },
+  "venture2": {
+    "sounds": [
+      "minescapersmusic:venture2"
+    ]
+  },
+  "victory_is_mine": {
+    "sounds": [
+      "minescapersmusic:victory_is_mine"
+    ]
+  },
+  "village_dance": {
+    "sounds": [
+      "minescapersmusic:village_dance"
+    ]
+  },
+  "village_fate": {
+    "sounds": [
+      "minescapersmusic:village_fate"
+    ]
+  },
+  "village_life": {
+    "sounds": [
+      "minescapersmusic:village_life"
+    ]
+  },
+  "village": {
+    "sounds": [
+      "minescapersmusic:village"
+    ]
+  },
+  "violets_first_adventure": {
+    "sounds": [
+      "minescapersmusic:violets_first_adventure"
+    ]
+  },
+  "violinsanity": {
+    "sounds": [
+      "minescapersmusic:violinsanity"
+    ]
+  },
+  "vision": {
+    "sounds": [
+      "minescapersmusic:vision"
+    ]
+  },
+  "void_knights_theme": {
+    "sounds": [
+      "minescapersmusic:void_knights_theme"
+    ]
+  },
+  "volcanic_vikings": {
+    "sounds": [
+      "minescapersmusic:volcanic_vikings"
+    ]
+  },
+  "voodoo_cult": {
+    "sounds": [
+      "minescapersmusic:voodoo_cult"
+    ]
+  },
+  "vorago": {
+    "sounds": [
+      "minescapersmusic:vorago"
+    ]
+  },
+  "voyage": {
+    "sounds": [
+      "minescapersmusic:voyage"
+    ]
+  },
+  "waiting_for_battle": {
+    "sounds": [
+      "minescapersmusic:waiting_for_battle"
+    ]
+  },
+  "waiting_for_the_hunt": {
+    "sounds": [
+      "minescapersmusic:waiting_for_the_hunt"
+    ]
+  },
+  "waking_dream": {
+    "sounds": [
+      "minescapersmusic:waking_dream"
+    ]
+  },
+  "wander_waltz": {
+    "sounds": [
+      "minescapersmusic:wander_waltz"
+    ]
+  },
+  "wander": {
+    "sounds": [
+      "minescapersmusic:wander"
+    ]
+  },
+  "warped_gulega": {
+    "sounds": [
+      "minescapersmusic:warped_gulega"
+    ]
+  },
+  "warrior": {
+    "sounds": [
+      "minescapersmusic:warrior"
+    ]
+  },
+  "warriors_guild": {
+    "sounds": [
+      "minescapersmusic:warriors_guild"
+    ]
+  },
+  "waste_defaced": {
+    "sounds": [
+      "minescapersmusic:waste_defaced"
+    ]
+  },
+  "waterfall_ii": {
+    "sounds": [
+      "minescapersmusic:waterfall_ii"
+    ]
+  },
+  "waterfall_iii": {
+    "sounds": [
+      "minescapersmusic:waterfall_iii"
+    ]
+  },
+  "waterfall": {
+    "sounds": [
+      "minescapersmusic:waterfall"
+    ]
+  },
+  "waterlogged": {
+    "sounds": [
+      "minescapersmusic:waterlogged"
+    ]
+  },
+  "way_of_the_enchanter": {
+    "sounds": [
+      "minescapersmusic:way_of_the_enchanter"
+    ]
+  },
+  "wayward": {
+    "sounds": [
+      "minescapersmusic:wayward"
+    ]
+  },
+  "we_are_the_fairies": {
+    "sounds": [
+      "minescapersmusic:we_are_the_fairies"
+    ]
+  },
+  "we_menaphites_we_fight": {
+    "sounds": [
+      "minescapersmusic:we_menaphites_we_fight"
+    ]
+  },
+  "weaving": {
+    "sounds": [
+      "minescapersmusic:weaving"
+    ]
+  },
+  "webbed_feat": {
+    "sounds": [
+      "minescapersmusic:webbed_feat"
+    ]
+  },
+  "welcome_to_the_easter_fete": {
+    "sounds": [
+      "minescapersmusic:welcome_to_the_easter_fete"
+    ]
+  },
+  "well_of_voyage": {
+    "sounds": [
+      "minescapersmusic:well_of_voyage"
+    ]
+  },
+  "wending_through_the_willows": {
+    "sounds": [
+      "minescapersmusic:wending_through_the_willows"
+    ]
+  },
+  "whales_maw": {
+    "sounds": [
+      "minescapersmusic:whales_maw"
+    ]
+  },
+  "what_lies_beneath": {
+    "sounds": [
+      "minescapersmusic:what_lies_beneath"
+    ]
+  },
+  "what_we_do": {
+    "sounds": [
+      "minescapersmusic:what_we_do"
+    ]
+  },
+  "where_eagles_lair": {
+    "sounds": [
+      "minescapersmusic:where_eagles_lair"
+    ]
+  },
+  "while_we_sleep": {
+    "sounds": [
+      "minescapersmusic:while_we_sleep"
+    ]
+  },
+  "white_whale_instrumental": {
+    "sounds": [
+      "minescapersmusic:white_whale_instrumental"
+    ]
+  },
+  "white_whale": {
+    "sounds": [
+      "minescapersmusic:white_whale"
+    ]
+  },
+  "who_are_we_to_judge": {
+    "sounds": [
+      "minescapersmusic:who_are_we_to_judge"
+    ]
+  },
+  "who_is_pharaoh_instrumental": {
+    "sounds": [
+      "minescapersmusic:who_is_pharaoh_instrumental"
+    ]
+  },
+  "who_is_the_pharaoh": {
+    "sounds": [
+      "minescapersmusic:who_is_the_pharaoh"
+    ]
+  },
+  "whoooreeka": {
+    "sounds": [
+      "minescapersmusic:whoooreeka"
+    ]
+  },
+  "wild_isle": {
+    "sounds": [
+      "minescapersmusic:wild_isle"
+    ]
+  },
+  "wild_side": {
+    "sounds": [
+      "minescapersmusic:wild_side"
+    ]
+  },
+  "wilderness_i": {
+    "sounds": [
+      "minescapersmusic:wilderness_i"
+    ]
+  },
+  "wilderness_ii": {
+    "sounds": [
+      "minescapersmusic:wilderness_ii"
+    ]
+  },
+  "wilderness_iii": {
+    "sounds": [
+      "minescapersmusic:wilderness_iii"
+    ]
+  },
+  "wildwood": {
+    "sounds": [
+      "minescapersmusic:wildwood"
+    ]
+  },
+  "winter_funfare": {
+    "sounds": [
+      "minescapersmusic:winter_funfare"
+    ]
+  },
+  "winter_workin_night_and_day": {
+    "sounds": [
+      "minescapersmusic:winter_workin_night_and_day"
+    ]
+  },
+  "witching": {
+    "sounds": [
+      "minescapersmusic:witching"
+    ]
+  },
+  "woe_of_the_wyvern": {
+    "sounds": [
+      "minescapersmusic:woe_of_the_wyvern"
+    ]
+  },
+  "wonder": {
+    "sounds": [
+      "minescapersmusic:wonder"
+    ]
+  },
+  "wonderous": {
+    "sounds": [
+      "minescapersmusic:wonderous"
+    ]
+  },
+  "woodland": {
+    "sounds": [
+      "minescapersmusic:woodland"
+    ]
+  },
+  "work_while_they_play": {
+    "sounds": [
+      "minescapersmusic:work_while_they_play"
+    ]
+  },
+  "work_work_work": {
+    "sounds": [
+      "minescapersmusic:work_work_work"
+    ]
+  },
+  "workshop": {
+    "sounds": [
+      "minescapersmusic:workshop"
+    ]
+  },
+  "worldgorger_shukarhazh": {
+    "sounds": [
+      "minescapersmusic:worldgorger_shukarhazh"
+    ]
+  },
+  "worlds_apart": {
+    "sounds": [
+      "minescapersmusic:worlds_apart"
+    ]
+  },
+  "worlds": {
+    "sounds": [
+      "minescapersmusic:worlds"
+    ]
+  },
+  "wrath_and_ruin": {
+    "sounds": [
+      "minescapersmusic:wrath_and_ruin"
+    ]
+  },
+  "wyrds_woe": {
+    "sounds": [
+      "minescapersmusic:wyrds_woe"
+    ]
+  },
+  "wyrding_way": {
+    "sounds": [
+      "minescapersmusic:wyrding_way"
+    ]
+  },
+  "xenophobe": {
+    "sounds": [
+      "minescapersmusic:xenophobe"
+    ]
+  },
+  "yakamaru_i": {
+    "sounds": [
+      "minescapersmusic:yakamaru_i"
+    ]
+  },
+  "yakamaru_ii": {
+    "sounds": [
+      "minescapersmusic:yakamaru_ii"
+    ]
+  },
+  "yesteryear": {
+    "sounds": [
+      "minescapersmusic:yesteryear"
+    ]
+  },
+  "yklagor_the_thunderous": {
+    "sounds": [
+      "minescapersmusic:yklagor_the_thunderous"
+    ]
+  },
+  "you_will_know_me": {
+    "sounds": [
+      "minescapersmusic:you_will_know_me"
+    ]
+  },
+  "yubiusk": {
+    "sounds": [
+      "minescapersmusic:yubiusk"
+    ]
+  },
+  "zamorak_camp": {
+    "sounds": [
+      "minescapersmusic:zamorak_camp"
+    ]
+  },
+  "zamorak_zoo": {
+    "sounds": [
+      "minescapersmusic:zamorak_zoo"
+    ]
+  },
+  "zaniks_theme": {
+    "sounds": [
+      "minescapersmusic:zaniks_theme"
+    ]
+  },
+  "zaros_returns": {
+    "sounds": [
+      "minescapersmusic:zaros_returns"
+    ]
+  },
+  "zaros_stirs": {
+    "sounds": [
+      "minescapersmusic:zaros_stirs"
+    ]
+  },
+  "zaros_zeitgeist": {
+    "sounds": [
+      "minescapersmusic:zaros_zeitgeist"
+    ]
+  },
+  "zarosian_reprise": {
+    "sounds": [
+      "minescapersmusic:zarosian_reprise"
+    ]
+  },
+  "zealot": {
+    "sounds": [
+      "minescapersmusic:zealot"
+    ]
+  },
+  "zogre_dance": {
+    "sounds": [
+      "minescapersmusic:zogre_dance"
+    ]
+  },
+  "zombie_invasion": {
+    "sounds": [
+      "minescapersmusic:zombie_invasion"
+    ]
+  },
+  "zombiism": {
+    "sounds": [
+      "minescapersmusic:zombiism"
+    ]
+  }
+}

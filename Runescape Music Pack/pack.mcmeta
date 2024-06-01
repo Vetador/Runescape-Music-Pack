@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 16,
+    "supported_formats": [15,99],
+    "description": "Runescape 3 music pack"
+  }
+}
